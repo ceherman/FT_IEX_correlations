@@ -1,0 +1,351 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Walsh2018}
+G.~Walsh, {Biopharmaceutical benchmarks 2018}, Nature biotechnology 36~(12)
+  (2018) 1136--1145.
+\newblock \href {https://doi.org/10.1038/nbt.4305}
+  {\path{doi:10.1038/nbt.4305}}.
+
+\bibitem{Lu2020}
+R.-M. Lu, Y.-C. Hwang, I.-J. Liu, C.-C. Lee, H.-Z. Tsai, H.-J. Li, H.-C. Wu,
+  {Development of therapeutic antibodies for the treatment of diseases},
+  Journal of Biomedical Science 27~(1) (2020) \DIFaddbegin \DIFadd{1--30}\DIFaddend .
+\newblock \href {https://doi.org/10.1186/s12929-019-0592-z}
+  {\path{doi:10.1186/s12929-019-0592-z}}.
+
+\bibitem{Allen2017}
+L.~Allen, {The Evolution of Platform Technologies for the Downstream Processing
+  of Antibodies}, in: U.~Gottschalk (Ed.), Process Scale Purification of
+  Antibodies, 2nd Edition, John Wiley \& Sons, Inc., Hoboken, NJ, USA, 2017,
+  pp. 365--389.
+\newblock \href {https://doi.org/10.1002/9781119126942.ch17}
+  {\path{doi:10.1002/9781119126942.ch17}}.
+
+\bibitem{Shukla2017}
+A.~A. Shukla, L.~S. Wolfe, S.~S. Mostafa, C.~Norman, {Evolving trends in mAb
+  production processes}, Bioengineering \& Translational Medicine 2~(1) (2017)
+  58--69.
+\newblock \href {https://doi.org/10.1002/btm2.10061}
+  {\path{doi:10.1002/btm2.10061}}.
+
+\bibitem{Levy2016}
+N.~E. Levy, K.~N. Valente, K.~H. Lee, A.~M. Lenhoff, {Host cell protein
+  impurities in chromatographic polishing steps for monoclonal antibody
+  purification}, Biotechnology and Bioengineering 113~(6) (2016) 1260--1272.
+\newblock \href {https://doi.org/10.1002/bit.25882}
+  {\path{doi:10.1002/bit.25882}}.
+
+\bibitem{Jones2021}
+M.~Jones, N.~Palackal, F.~Wang, G.~Gaza-Bulseco, K.~Hurkmans, Y.~Zhao,
+  C.~Chitikila, S.~Clavier, S.~Liu, E.~Menesale, N.~S. Schonenbach, S.~Sharma,
+  P.~Valax, T.~Waerner, L.~Zhang, T.~Connolly, {“High-risk” host cell
+  proteins (HCPs): A multi-company collaborative view}, Biotechnology and
+  Bioengineering 118~(8) (2021) 2870--2885.
+\newblock \href {https://doi.org/10.1002/bit.27808}
+  {\path{doi:10.1002/bit.27808}}.
+
+\bibitem{Molden2021}
+R.~Molden, M.~Hu, S.~{Yen E.}, D.~Saggese, J.~Reilly, J.~Mattila, H.~Qiu,
+  G.~Chen, H.~Bak, N.~Li, {Host cell protein profiling of commercial
+  therapeutic protein drugs as a benchmark for monoclonal antibody-based
+  therapeutic protein development}, mAbs 13~(1) (2021) e1955811.
+\newblock \href {https://doi.org/10.1080/19420862.2021.1955811}
+  {\path{doi:10.1080/19420862.2021.1955811}}.
+
+\bibitem{Jin2010}
+M.~Jin, N.~Szapiel, J.~Zhang, J.~Hickey, S.~Ghose, {Profiling of host cell
+  proteins by two-dimensional difference gel electrophoresis (2D-DIGE):
+  Implications for downstream process development}, Biotechnology and
+  Bioengineering 105~(2) (2009) 306--316.
+\newblock \href {https://doi.org/10.1002/bit.22532}
+  {\path{doi:10.1002/bit.22532}}.
+
+\bibitem{Kelley2008a}
+B.~D. Kelley, S.~A. Tobler, P.~Brown, J.~L. Coffman, R.~Godavarti, T.~Iskra,
+  M.~Switzer, S.~Vunnum, {Weak partitioning chromatography for anion exchange
+  purification of monoclonal antibodies}, Biotechnology and Bioengineering
+  101~(3) (2008) 553--566.
+\newblock \href {https://doi.org/10.1002/bit.21923}
+  {\path{doi:10.1002/bit.21923}}.
+
+\bibitem{Liu2010a}
+H.~F. Liu, J.~Ma, C.~Winter, R.~Bayer, {Recovery and purification process
+  development for monoclonal antibody production}, mAbs 2~(5) (2010) 480--499.
+\newblock \href {https://doi.org/10.4161/mabs.2.5.12645}
+  {\path{doi:10.4161/mabs.2.5.12645}}.
+
+\bibitem{Ichihara2018}
+T.~Ichihara, T.~Ito, Y.~Kurisu, K.~Galipeau, C.~Gillespie, {Integrated
+  flow-through purification for therapeutic monoclonal antibodies processing},
+  mAbs 10~(2) (2018) 325--334.
+\newblock \href {https://doi.org/10.1080/19420862.2017.1417717}
+  {\path{doi:10.1080/19420862.2017.1417717}}.
+
+\bibitem{Schwellenbach2016}
+J.~Schwellenbach, S.~Zobel, F.~Taft, L.~Villain, J.~Strube, {Purification of
+  monoclonal antibodies using a fiber based cation-exchange stationary phase:
+  Parameter determination and modeling}, Bioengineering 3~(\DIFdelbegin \DIFdel{4}\DIFdelend \DIFaddbegin \DIFadd{24}\DIFaddend ) (2016) \DIFaddbegin \DIFadd{1--20}\DIFaddend .
+\newblock \href {https://doi.org/10.3390/bioengineering3040024}
+  {\path{doi:10.3390/bioengineering3040024}}.
+
+\DIFaddbegin \bibitem{Trnovec2020}
+\DIFadd{H.~Trnovec, T.~Doles, G.~Hribar, N.~Furlan, A.~Podgornik, }{\DIFadd{Characterization of
+  membrane adsorbers used for impurity removal during the continuous
+  purification of monoclonal antibodies}}\DIFadd{, Journal of Chromatography A
+  1609~(460518) (2020) 1--13.
+}\newblock \href {https://doi.org/10.1016/j.chroma.2019.460518}
+  {\path{doi:10.1016/j.chroma.2019.460518}}\DIFadd{.
+}
+
+\DIFaddend \bibitem{Ichihara2019}
+T.~Ichihara, T.~Ito, C.~Gillespie, {Polishing approach with fully connected
+  flow-through purification for therapeutic monoclonal antibody}, Engineering
+  in Life Sciences 19 (2019) 31--36.
+\newblock \href {https://doi.org/10.1002/elsc.201800123}
+  {\path{doi:10.1002/elsc.201800123}}.
+
+\bibitem{Khanal2021}
+O.~Khanal, A.~M. Lenhoff, {Developments and opportunities in continuous
+  biopharmaceutical manufacturing}, mAbs 13~(1) (2021) 1903664.
+\newblock \href {https://doi.org/10.1080/19420862.2021.1903664}
+  {\path{doi:10.1080/19420862.2021.1903664}}.
+
+\bibitem{Zhang2014}
+Q.~Zhang, A.~M. Goetze, H.~Cui, J.~Wylie, S.~Trimble, A.~Hewig, G.~C. Flynn,
+  {Comprehensive tracking of host cell proteins during monoclonal antibody
+  purifications using mass spectrometry}, mAbs 6~(3) (2014) 659--670.
+\newblock \href {https://doi.org/10.4161/mabs.28120}
+  {\path{doi:10.4161/mabs.28120}}.
+
+\bibitem{Hasegawa2020_1}
+S.~Hasegawa, C.-S. Chen, N.~Yoshimoto, S.~Yamamoto, {Accelerated method for
+  designing flow-through chromatography of proteins}, Journal of Chemical
+  Engineering of Japan 53~(5) (2020) 206--213.
+\newblock \href {https://doi.org/10.1252/jcej.20we002}
+  {\path{doi:10.1252/jcej.20we002}}.
+
+\bibitem{Hasegawa2020_2}
+S.~Hasegawa, C.-S. Chen, N.~Yoshimoto, S.~Yamamoto, {Optimization of
+  flow-through chromatography of proteins}, Journal of Chemical Engineering of
+  Japan 53~(5) (2020) 214--221.
+\newblock \href {https://doi.org/10.1252/jcej.20we003}
+  {\path{doi:10.1252/jcej.20we003}}.
+
+\bibitem{Carta2010a}
+G.~Carta, A.~Jungbauer, {Protein chromatography: Process development and
+  scale-up}, WILEY-VCH Verlag GmbH \& Co. KGaA, Weinheim, Germany, 2010.
+
+\bibitem{Schmidt-Traub2012}
+H.~Schmidt-Traub, M.~Schulte, A.~Seidel-Morgenstern (Eds.), {Preparative
+  Chromatography}, 2nd Edition, WILEY-VCH Verlag GmbH \& Co. KGaA, Weinheim,
+  Germany, 2012.
+
+\bibitem{DePhillips2001}
+P.~DePhillips, A.~M. Lenhoff, {Determinants of protein retention
+  characteristics on cation-exchange adsorbents}, Journal of Chromatography A
+  933 (2001) 57--72.
+\newblock \href {https://doi.org/10.1016/S0021-9673(01)01275-4}
+  {\path{doi:10.1016/S0021-9673(01)01275-4}}.
+
+\bibitem{Boardman1955}
+N.~K. Boardman, S.~M. Partridge, {Separation of Neutral Proteins on
+  Ion-Exchange Resins}, Biochemical Journal 59 (1955) 543--552.
+\newblock \href {https://doi.org/10.1038/171208a0}
+  {\path{doi:10.1038/171208a0}}.
+
+\bibitem{Guiochon2006}
+G.~Guiochon, A.~Felinger, D.~G. Shirazi, A.~M. Katti, {Fundamentals of
+  Preparative and Nonlinear Chromatography}, Elsevier Academic Press, San
+  Diego, CA, USA, 2006.
+
+\bibitem{Kumar2020}
+V.~Kumar, A.~M. Lenhoff, {Mechanistic Modeling of Preparative Column
+  Chromatography for Biotherapeutics}, Annual Review of Chemical and
+  Biomolecular Engineering 11 (2020) 235--255.
+\newblock \href {https://doi.org/10.1146/annurev-chembioeng-102419-125430}
+  {\path{doi:10.1146/annurev-chembioeng-102419-125430}}.
+
+\bibitem{Leweke2018}
+S.~Leweke, E.~von Lieres, {Chromatography analysis and design toolkit (CADET)},
+  Computers and Chemical Engineering 113 (2018) 274--294.
+\newblock \href {https://doi.org/10.1016/j.compchemeng.2018.02.025}
+  {\path{doi:10.1016/j.compchemeng.2018.02.025}}.
+
+\bibitem{Han1985}
+N.~Han, J.~Bhakta, R.~G. Carbonell, {Longitudinal and lateral dispersion in
+  packed beds: Effect of column length and particle size distribution}, AIChE
+  Journal 31~(2) (1985) 277--288.
+\newblock \href {https://doi.org/10.1002/aic.690310215}
+  {\path{doi:10.1002/aic.690310215}}.
+
+\bibitem{Young1980}
+M.~E. Young, P.~A. Carroad, R.~L. Bell, {Estimation of diffusion coefficients
+  of proteins}, Biotechnology and Bioengineering 22~(5) (1980) 947--955.
+\newblock \href {https://doi.org/10.1002/bit.260220504}
+  {\path{doi:10.1002/bit.260220504}}.
+
+\bibitem{Khanal7004}
+O.~Khanal, V.~Kumar, F.~Schlegel, A.~M. Lenhoff, Estimating and leveraging
+  protein diffusion on ion-exchange resin surfaces, Proceedings of the National
+  Academy of Sciences 117~(13) (2020) 7004--7010.
+\newblock \href {https://doi.org/10.1073/pnas.1921499117}
+  {\path{doi:10.1073/pnas.1921499117}}.
+
+\bibitem{Yoshida1994}
+H.~Yoshida, M.~Yoshikawa, T.~Kataoka, {Parallel transport of BSA by surface and
+  pore diffusion in strongly basic chitosan}, AIChE Journal 40~(12) (1994)
+  2034--2044.
+\newblock \href {https://doi.org/10.1002/aic.690401213}
+  {\path{doi:10.1002/aic.690401213}}.
+
+\bibitem{Kumar2015}
+V.~Kumar, S.~Leweke, E.~von Lieres, A.~S. Rathore, {Mechanistic modeling of
+  ion-exchange process chromatography of charge variants of monoclonal antibody
+  products}, Journal of Chromatography A 1426 (2015) 140--153.
+\newblock \href {https://doi.org/10.1016/j.chroma.2015.11.062}
+  {\path{doi:10.1016/j.chroma.2015.11.062}}.
+
+\bibitem{Yamamoto1987}
+S.~Yamamoto, M.~Nomura, Y.~Sano, {Adsorption chromatography of proteins:
+  Determination of optimum conditions}, AIChE Journal 33~(9) (1987) 1426--1434.
+\DIFaddbegin \newblock \href {https://doi.org/10.1002/aic.690330903}
+  {\path{doi:10.1002/aic.690330903}}\DIFadd{.
+}\DIFaddend 
+
+\bibitem{Asthagiri1997}
+D.~Asthagiri, A.~M. Lenhoff, {Influence of Structural Details in Modeling
+  Electrostatically Driven Protein Adsorption}, Langmuir 13~(25) (1997)
+  6761--6768.
+\newblock \href {https://doi.org/10.1021/la970608u}
+  {\path{doi:10.1021/la970608u}}.
+
+\bibitem{Guelat2012}
+B.~Gu{\'{e}}lat, G.~Str{\"{o}}hlein, M.~Lattuada, L.~Delegrange, P.~Valax,
+  M.~Morbidelli, {Simulation model for overloaded monoclonal antibody variants
+  separations in ion-exchange chromatography}, Journal of Chromatography A 1253
+  (2012) 32--43.
+\newblock \href {https://doi.org/10.1016/j.chroma.2012.06.081}
+  {\path{doi:10.1016/j.chroma.2012.06.081}}.
+
+\bibitem{Briskot2019}
+T.~Briskot, T.~Hahn, T.~Huuk, J.~Hubbuch, {Adsorption of colloidal proteins in
+  ion-exchange chromatography under consideration of charge regulation},
+  Journal of Chromatography A 1611 (2020) 460608.
+\newblock \href {https://doi.org/10.1016/j.chroma.2019.460608}
+  {\path{doi:10.1016/j.chroma.2019.460608}}.
+
+\bibitem{Kuipers2007}
+B.~J. Kuipers, H.~Gruppen, {Prediction of molar extinction coefficients of
+  proteins and peptides using UV absorption of the constituent amino acids at
+  214 nm to enable quantitative reverse phase high-performance liquid
+  chromatography-mass spectrometry analysis}, Journal of Agricultural and Food
+  Chemistry 55~(14) (2007) 5445--5451.
+\newblock \href {https://doi.org/10.1021/jf070337l}
+  {\path{doi:10.1021/jf070337l}}.
+
+\DIFaddbegin \bibitem{perrys}
+\DIFadd{M.~D. LeVan, G.~Carta, C.~M. Yon, Adsorption and ion exchange, in: R.~H. Perry,
+  D.~W. Green, J.~O. Maloney (Eds.), Perry's chemical engineers' handbook, 7th
+  Edition, McGraw-Hill, New York, NY, USA, 1997, pp. 16--15.
+}
+
+\DIFaddend \bibitem{Chen2020}
+C.-S. Chen, N.~Yoshimoto, S.~Yamamoto, {Prediction of the performance of
+  capture chromatography processes of proteins and its application to the
+  repeated cyclic operation optimization}, Journal of Chemical Engineering of
+  Japan 53~(11) (2020) 689--697.
+\newblock \href {https://doi.org/10.1252/JCEJ.20WE116}
+  {\path{doi:10.1252/JCEJ.20WE116}}.
+
+\DIFaddbegin \bibitem{Wesselingh2001}
+\DIFadd{J.~A. Wesselingh, J.~C. Bosma, }{\DIFadd{Protein ion-exchange adsorption kinetics}}\DIFadd{,
+  AIChE Journal 47~(7) (2001) 1571--1580.
+}\newblock \href {https://doi.org/10.1002/aic.690470710}
+  {\path{doi:10.1002/aic.690470710}}\DIFadd{.
+}
+
+\bibitem{Lenhoff2008}
+\DIFadd{A.~M. Lenhoff, }{\DIFadd{Multiscale modeling of protein uptake patterns in
+  chromatographic particles}}\DIFadd{, Langmuir 24~(12) (2008) 5991--5995.
+}\newblock \href {https://doi.org/10.1021/la8004163}
+  {\path{doi:10.1021/la8004163}}\DIFadd{.
+}
+
+\DIFaddend \bibitem{Angelo2016b}
+J.~M. Angelo, A.~M. Lenhoff, {Determinants of protein elution rates from
+  preparative ion-exchange adsorbents}, Journal of Chromatography A 1440 (2016)
+  94--104.
+\newblock \href {https://doi.org/10.1016/j.chroma.2016.02.048}
+  {\path{doi:10.1016/j.chroma.2016.02.048}}.
+
+\bibitem{Staby2000}
+A.~Staby, I.~H. Jensen, I.~Mollerup, {Comparison of chromatographic
+  ion-exchange resins I. Strong anion-exchange resins}, Journal of
+  Chromatography A 897 (2000) 99--111.
+\newblock \href {https://doi.org/10.1016/s0021-9673(00)00780-9}
+  {\path{doi:10.1016/s0021-9673(00)00780-9}}.
+
+\bibitem{Staby2001}
+A.~Staby, I.~H. Jensen, {Comparison of chromatographic ion-exchange resins II.
+  More strong anion-exchange resins}, Journal of Chromatography A 908 (2001)
+  149--161\DIFaddbegin \DIFadd{.
+}\newblock \href {https://doi.org/10.1016/S0021-9673(00)00999-7}
+  {\path{doi:10.1016/S0021-9673(00)00999-7}}\DIFaddend .
+
+\bibitem{Staby2004}
+A.~Staby, M.-B. Sand, R.~G. Hansen, J.~H. Jacobsen, L.~A. Andersen,
+  M.~Gerstenberg, U.~K. Bruus, I.~H. Jensen, {Comparison of chromatographic
+  ion-exchange resins: III. Strong cation-exchange resins}, Journal of
+  Chromatography A 1034 (2004) 85--97.
+\newblock \href {https://doi.org/10.1016/j.chroma.2004.01.026}
+  {\path{doi:10.1016/j.chroma.2004.01.026}}.
+
+\bibitem{Staby2005}
+A.~Staby, M.-B. Sand, R.~G. Hansen, J.~H. Jacobsen, L.~A. Andersen,
+  M.~Gerstenberg, U.~K. Bruus, I.~H. Jensen, {Comparison of chromatographic
+  ion-exchange resins: IV. Strong and weak cation-exchange resins and heparin
+  resins}, Journal of Chromatography A 1069 (2005) 65--77.
+\newblock \href {https://doi.org/10.1016/j.chroma.2004.11.094}
+  {\path{doi:10.1016/j.chroma.2004.11.094}}.
+
+\bibitem{Staby2006}
+A.~Staby, J.~H. Jacobsen, R.~G. Hansen, U.~K. Bruus, I.~H. Jensen, {Comparison
+  of chromatographic ion-exchange resins. V. Strong and weak cation-exchange
+  resins}, Journal of Chromatography A 1118 (2006) 168--179.
+\newblock \href {https://doi.org/10.1016/j.chroma.2006.03.116}
+  {\path{doi:10.1016/j.chroma.2006.03.116}}.
+
+\bibitem{Staby2007}
+A.~Staby, R.~H. Jensen, M.~Bensch, J.~Hubbuch, D.~L. D{\"{u}}nweber, J.~Krarup,
+  J.~Nielsen, M.~Lund, S.~Kidal, T.~B. Hansen, I.~H. Jensen, {Comparison of
+  chromatographic ion-exchange resins. VI. Weak anion-exchange resins}, Journal
+  of Chromatography A 1164 (2007) 82--94.
+\newblock \href {https://doi.org/10.1016/j.chroma.2007.06.048}
+  {\path{doi:10.1016/j.chroma.2007.06.048}}.
+
+\bibitem{DePhillips2004}
+P.~DePhillips, A.~M. Lenhoff, {Relative retention of the fibroblast growth
+  factors FGF-1 and FGF-2 on strong cation-exchange sorbents}, Journal of
+  Chromatography A 1036 (2004) 51--60.
+\newblock \href {https://doi.org/10.1016/j.chroma.2004.01.012}
+  {\path{doi:10.1016/j.chroma.2004.01.012}}.
+
+\bibitem{bai1999}
+J.~Z. Bai, {Characterization of protein retention and transport in anion
+  exchange chromatography}, Master's thesis, University of Delaware, Newark,
+  DE, USA (1999).
+
+\bibitem{Saleh2020}
+D.~Saleh, G.~Wang, B.~M{\"{u}}ller, F.~Rischawy, S.~Kluters, J.~Studts,
+  J.~Hubbuch, {Straightforward method for calibration of mechanistic cation
+  exchange chromatography models for industrial applications}, Biotechnology
+  Progress 36~(4) (2020) e2984.
+\newblock \href {https://doi.org/10.1002/btpr.2984}
+  {\path{doi:10.1002/btpr.2984}}.
+
+\end{thebibliography}

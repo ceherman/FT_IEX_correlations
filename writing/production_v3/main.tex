@@ -1,0 +1,337 @@
+
+%% The following was originally based on the Elsevier template  `elsarticle-template-num.tex'. Reference the Elsevier Article (elsarticle) Template in Overleaf for several LaTeX options (which I removed below, and then I added some additional features).
+
+%% Preamble
+\documentclass[preprint,review,12pt]{elsarticle}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{physics}
+\usepackage{siunitx}
+\usepackage{listings}
+
+\usepackage{lineno}
+\usepackage{gensymb}
+\usepackage{booktabs, makecell}
+\renewcommand\theadfont{\bfseries}
+\biboptions{sort&compress}
+
+\usepackage{hyperref,cleveref}
+\hypersetup{nolinks=true}
+
+% Graphics paths
+% The graphicx.sty package is already loaded in elsarticle.cls
+\usepackage[label font={bf, normalsize}]{subfig}
+\renewcommand{\thesubfigure}{\Alph{subfigure}}
+\usepackage{caption}
+\captionsetup{font=normal}
+\usepackage{floatrow}
+\floatsetup[figure]{subcapbesideposition=top}
+\floatsetup[table]{style=plaintop}
+
+% \DeclareGraphicsExtensions{.png,.pdf} % Could use for development
+\DeclareGraphicsExtensions{.pdf} % For production
+
+\usepackage{xr}
+\externaldocument[supp-]{supp}
+\externaldocument[fig-]{figures}
+
+%% Front matter
+\begin{document}
+
+
+\begin{frontmatter}
+    \journal{the Journal of Chromatography A}
+    \title{Behavior of weakly adsorbing protein impurities in flow-through ion-exchange chromatography}
+    \author[inst1]{Chase E. Herman}
+    \author[inst2]{Xuankuo Xu}
+    \author[inst2]{Steven J. Traylor}
+    \author[inst2]{Sanchayita Ghose}
+    \author[inst2]{Zheng Jian Li}
+    \author[inst1]{Abraham M. Lenhoff \corref{cor1}}
+
+
+    \affiliation[inst1]{organization={Department of Chemical and Biomolecular Engineering, University of Delaware},
+                city={Newark},
+                state={DE},
+                country={USA}}
+    \affiliation[inst2]{organization={Biologics Process Development, Bristol Myers Squibb},
+                city={Devens},
+                state={MA},
+                country={USA}}
+    \cortext[cor1]{Corresponding author \\ \hspace*{1.5em} \emph{E-mail address:}  lenhoff@udel.edu (A.M. Lenhoff).}
+
+
+    %Research highlights
+    % \begin{highlights}
+
+    % \item Contributions to the breakthrough of weakly adsorbing impurities are elucidated.
+    % \item Column simulations show that dilute impurity breakthrough can be rather diffuse.
+    % \item Dilute solute breakthrough volumes correlate with a mass transfer Graetz number.
+    % \item Stoichiometric displacement model parameters follow a separate correlation.
+    % \end{highlights}
+
+    \begin{keyword}
+    %% keywords here, in the form: keyword \sep keyword
+    Flow-through \sep Ion-exchange \sep Impurity \sep Clearance \sep Breakthrough \sep Stoichiometric displacement model
+    \end{keyword}
+
+
+    \begin{abstract}
+
+        Flow-through ion-exchange chromatography is frequently used in polishing biotherapeutics, but the factors that contribute to impurity persistence are incompletely understood. A large number of dilute impurities may be encountered that exhibit physicochemical diversity, making the flow-through separation performance highly sensitive to process conditions. The analysis presented in this work develops two novel correlations that offer transferable insights into the chromatographic behavior of weakly adsorbing impurities. The first, based on column simulations and validated experimentally, delineates the relative contributions of thermodynamic, transport, and geometric properties in dictating the initial breakthrough volume of dilute species. The Graetz number for mass transfer was found to generalize the transport contributions, enabling estimation of a threshold in the equilibrium constant below which impurity persistence is expected. Impurity adsorption equilibria are needed to use this correlation, but such data are not typically available. The second relationship presented in this work may be used to reduce the experimental burden of estimating adsorption equilibria as a function of ionic strength. A correlation between stoichiometric displacement model parameters was found by consolidating isocratic retention data for over 200 protein-pH-resin combinations from the extant literature. Coupled with Yamamoto's analysis of linear gradient elution data, this correlation may be used to estimate retentivity approximately from a single experimental measurement, which could prove useful in predicting host-cell protein chromatographic behavior.
+
+    \end{abstract}
+
+\end{frontmatter}
+
+%% Main text
+\linenumbers
+
+\section{Introduction} \label{sec:intro}
+    The biopharmaceutical market has grown substantially over the past few decades, with over 300 biologics having received regulatory approval and hundreds more in development pipelines \cite{Walsh2018, Lu2020}. Monoclonal antibodies (mAbs) comprise the majority of these biologics, partly because platform purification processes have enabled their rapid development \cite{Allen2017, Shukla2017}. One stage in a typical platform process is polishing, where trace impurities such as host-cell proteins (HCPs) are removed prior to product formulation using one or more chromatographic operations \cite{Levy2016}. Despite their low concentrations, some of these impurities may pose a risk to therapeutic safety and stability, and polishing operations are designed to remove them completely \cite{Jones2021, Molden2021}.
+
+    Polishing may be performed using ion-exchange (IEX), hydrophobic interaction or multimodal resins. Since the majority of secreted HCPs are more acidic than the typical mAb \cite{Jin2010}, anion-exchange (AEX) resins are more naturally suited to flow-through operations \cite{Kelley2008a}, in which impurities are intended to adsorb to the resin, but they may be used in bind-and-elute mode as well \cite{Liu2010a}. The inverse is true of cation-exchange (CEX) stationary phases. The flow-through operational mode offers the advantage of relatively high throughput; as a heuristic, 1 g of mAb usually requires 1 ml of resin in flow-through IEX \cite{Ichihara2018}. For mAb concentrations on the order of 20 mg/ml, this corresponds to an apparent processing capacity on the order of 50 column volumes (CV). Such large capacities can enable high productivity operations with relatively small columns. If convective media are used instead of resin particles, there is the potential to increase productivity beyond the limitations inherently associated with packed column flow rate constraints \cite{Schwellenbach2016, Trnovec2020}. These process intensification benefits have led to an increasing consideration of flow-through operations for applications outside of polishing, particularly in the development of continuous downstream processes \cite{Ichihara2018, Ichihara2019, Khanal2021}.
+
+    Despite the utility of flow-through IEX steps, relatively few studies have systematically investigated their development and limitations. This is partly because impurity behavior is essential to understanding flow-through separations, but it is difficult to interrogate experimentally. Total HCP concentrations encountered in mAb polishing are usually on the order of 1000 ppm \cite{Zhang2014}, rendering in-line detection and quantification infeasible \cite{Hasegawa2020_1, Hasegawa2020_2}. Hundreds of HCPs may be present, and their biophysical diversity leads to heterogeneous chromatographic behavior. Although process conditions are tuned to maximize HCP adsorption, they are generally less conducive to strong retention than in bind-and-elute mode. This may make impurity clearance highly sensitive to the mobile phase composition and the resin.
+
+    Coupled with the plethora of available resins, the high sensitivity of separation performance typically necessitates screening studies during process development. Commercial IEX resins are available that differ in particle size, pore size and morphology, base matrix, ligand chemistry, ionic capacity, and surface functionalization \cite{Carta2010a, Schmidt-Traub2012}. Screening studies to determine the best resin among several alternatives can provide valuable application-specific data, and perhaps furnish general resin retentivity heuristics \cite{DePhillips2001}, but they offer limited transferable insights into individual HCP chromatographic retention and capacity. Column modeling has therefore been suggested as a complementary technique to elucidate the factors that contribute to impurity persistence \cite{Hasegawa2020_1, Hasegawa2020_2}. A better understanding of this phenomenon could potentially improve flow-through process design, expedite development, reduce costs, and increase consistency with quality by design principles. It could also help direct future \emph{in silico} optimization efforts, which to date have focused primarily on product molecules rather than impurities.
+
+    Two HCP persistence mechanisms have been hypothesized for flow-through processes:  product association and weak adsorption \cite{Levy2016}. The relative importance of these mechanisms remains unclear. Product association is expected to vary mechanistically with the therapeutic molecule and the impurity species, which may hinder a general understanding of the phenomenon. However, it may be tractable to analyze generally the breakthrough of weakly adsorbing impurities. Two attributes of the flow-through process simplify the analysis, namely that the process is isocratic, and that the adsorption equilbria of weakly adsorbing species are expected to be approximately linear and independent. Assuming HCP concentrations on the order of 1000 ppm, column capacities on the order of 100 mg/ml, and the load heuristic of 1 g mAb/ml of column, only $\sim$1\% of the column is expected to saturate with HCPs. The majority of the column is therefore available for weakly retained HCPs to adsorb with negligible competition for the IEX surface.
+
+    This work focuses on developing transferable insights into the breakthrough of weakly adsorbing impurities in flow-through IEX. We placed emphasis on understanding contributions to the initial breakthrough volume, as the goal of flow-through polishing is the complete removal of trace impurities. To maintain generalizability across diverse sets of HCPs, we simulated the chromatographic behavior of dilute species with a variety of transport and thermodynamic properties. Simulated initial breakthrough volumes were analytically related to the Graetz number for mass transfer, and this relationship was validated experimentally. Transport and thermodynamic parameters need to be estimated to use this relationship, but HCP adsorption equilibrium constants are usually unknown. To gain a better understanding of IEX adsorption equilibria, we consolidated dilute isocratic retention data from the extant literature on model species. From these data, a correlation was observed between stoichiometric displacement model (SDM) parameters that are commonly used to relate the adsorption equilibrium constant to ionic strength \cite{Boardman1955}. This thermodynamic correlation was corroborated by linear gradient elution data, suggesting a way to estimate SDM parameters approximately from one experimental measurement. These relationships provide novel insights into properties that contribute to flow-through impurity clearance.
+
+
+\section{Theory and simulation} \label{sec:sim}
+
+    \subsection{Column chromatography model} \label{ssec:model}
+        The 1D general rate model of column chromatography was used in this work, which describes the transport of solutes within the column interstitial volume as \cite{Guiochon2006, Schmidt-Traub2012, Kumar2020}:
+        \begin{subequations} \label{eq:column}
+        \begin{equation} \label{eq:grm_column_main}
+            \pdv{c}{t} + v \pdv{c}{z} = D_{ax} \pdv[2]{c}{z} - \frac{3}{r_p}\left( \frac{1-\varepsilon_c}{\varepsilon_c} \right) k_f \left(c- c_p \big|_{r=r_p}\right)
+        \end{equation}
+        with Danckwerts' boundary conditions:
+        \begin{equation} \label{eq:danck_1}
+            v \left( c_{in} - c\big|_{z=0} \right) = -D_{ax} \pdv{c}{z} \bigg|_{z=0}
+        \end{equation}
+        \begin{equation} \label{eq:danck_2}
+            \pdv{c}{z} \bigg|_{z=L_{col}} = 0
+        \end{equation}
+        \end{subequations}
+        where $c$ is the solute concentration in the interstitial volume, $c_p$ is the solute concentration in the resin bead pore space, $t$ is time, $z$ is the column axial coordinate, $r$ is the resin bead radial coordinate, $c_{in}$ is the column inlet concentration, $L_{col}$ is the column length, $r_p$ is the resin bead radius, $v$ is the interstitial velocity, $D_{ax}$ is the axial dispersion coefficient, $k_f$ is the film mass transfer coefficient, and $\varepsilon_c$ is the interstitial column porosity (i.e., the bed void fraction). Solute transport within the resin beads is described by:
+        \begin{subequations} \label{eq:particle}
+        \begin{equation} \label{eq:particle_main}
+            \varepsilon_p \pdv{c_p}{t} + \left( 1 - \varepsilon_p \right) \pdv{q}{t} = \varepsilon_p D_p \left(\pdv[2]{c_p}{r} + \frac{1}{r} \pdv{c_p}{r} \right) + \left( 1 - \varepsilon_p \right) D_s \left(\pdv[2]{q}{r} + \frac{1}{r} \pdv{q}{r} \right)
+        \end{equation}
+        with boundary conditions of spherical symmetry at the bead center and a mass balance at the bead edge, respectively:
+        \begin{equation} \label{eq:particle_bc_sym}
+            \pdv{c_p}{r} \bigg|_{r=0} = 0, \qquad \pdv{q}{r} \bigg|_{r=0} = 0
+        \end{equation}
+        \begin{equation} \label{eq:particle_bc_edge}
+            \varepsilon_p D_p \pdv{c_p}{r} \bigg|_{r=r_p} + \left( 1 - \varepsilon_p \right) D_s \pdv{q}{r} \bigg|_{r=r_p} = k_f \left(c- c_p \big|_{r=r_p}\right)
+        \end{equation}
+        \end{subequations}
+        where $q$ is the adsorbed solute concentration, $\varepsilon_p$ is the resin bead porosity accessible to the solute, $D_p$ is pore diffusivity, and $D_s$ is surface diffusivity. Typically, the relevant initial conditions are:
+        \begin{equation} \label{eq:ic}
+            c\big|_{t=0} = 0, \qquad c_p\big|_{t=0} = 0, \qquad q\big|_{t=0} = 0
+        \end{equation}
+
+        An isotherm relating $q$ to $c_p$ is needed to complete the column model, along with a description of the adsorption kinetics. Since adsorption and desorption steps are usually much faster than the other transport processes, instantaneous equilibration was assumed in this work. Although a linear isotherm was assumed for comparison with experimental data (section~\ref{ssec:sims_explor}), in general the Langmuir isotherm was used:
+        \begin{equation} \label{eq:langmuir_ss}
+            q = q_{max} \left( \frac{K_L c_p}{K_L c_p + 1} \right)
+        \end{equation}
+        where $q_{max}$ is the resin saturation capacity and $K_L$ is a thermodynamic parameter (equal to the ratio of the adsorption and desorption rate constants, $k_a/k_d$). The adsorption equilibrium constant, $K_{eq}$, is defined by the initial isotherm slope, which for the Langmuir model is:
+        \begin{equation} \label{eq:langmuir_keq}
+            K_{eq} \equiv \lim_{c_p \to 0} \frac{q}{c_p} = q_{max} K_L
+        \end{equation}
+        Dimensions of volume concentration were used for $q$ in this work (as opposed to excess surface concentration), making $K_{eq}$ a dimensionless parameter.
+
+        Column model equations were solved with the Chromatography Analysis and Design Toolkit (CADET, versions 4.1.0 and 4.2.0) \cite{Leweke2018}.
+
+
+    \subsection{Simulations for analyzing breakthrough volumes} \label{ssec:sims_explor}
+        To ascertain qualitative differences between the breakthrough of concentrated and dilute species, simulations were performed for single-component systems with load concentrations between 10 mg/ml and 1 $\mu$g/ml with $q_{max}$ fixed at  100 mg/ml of packed column, $K_{eq}$ varied from 1 to 10000, and transport parameters selected from representative calibrations to model species. Exploratory simulations were then performed for a load concentration of 1 $\mu$g/ml at variable $v$, $D_p$, $L_{col}$, and $r_p$. $D_{ax}$ was estimated as a function of $v$ from correlations for beds packed with solid particles \cite{Han1985}, using a dilute solution diffusivity of \num{7.5e-11} m$^2$/s to represent general protein behavior \cite{Young1980}. Film mass transfer was assumed not to be rate-limiting, and $k_f$ was consequently set to \num{1e-3} m/s to remove this degree of freedom from all simulations. $D_s$ was estimated as a function of $K_{eq}$ using results reported for a mAb of the form $D_s = a K_{eq}^b$, where the power law coefficients $a =$~\num{1.66e-12} m$^2$/s and $b = -0.24$ \cite{Khanal7004}. All simulation parameters are summarized in Supplementary Table~S1.
+
+
+        Results from these simulations were correlated to relate breakthrough volume with system parameters, making use of an effective intraparticle diffusivity ($D_{eff}$) to describe the combined effects of pore and surface diffusion \cite{Yoshida1994}:
+        \begin{equation} \label{eq:d_eff}
+            D_{eff} \equiv D_p + \left( \frac{1 - \varepsilon_p}{\varepsilon_p} \right) K_{eq} D_s
+        \end{equation}
+        This expression may be derived from Equation~\ref{eq:particle_main} by assuming instantaneous equilibration and linear chromatographic conditions, as given by:
+        \begin{equation} \label{eq:linear_ss}
+            q = K_{eq} c_p
+        \end{equation}
+        A linear isotherm was used for comparing simulations with experimental data, and the extra-column volume, which consisted of valves and 0.75 mm ID tubing, was described as a continuously stirred tank reactor (CSTR) in series with a dispersed plug flow reactor (PFR) \cite{Kumar2015}. The fraction of the extra-column volume allocated to the CSTR was fit as a function of flow rate, and the PFR axial dispersion coefficient was set to \num{1e-12} m$^2$/s.
+
+
+    \subsection{Models for ion-exchange adsorption equilibria} \label{ssec:electrostatics}
+        A number of models have been proposed to relate protein IEX adsorption equilibria to solution conditions, with perhaps the simplest and most commonly cited being the stoichiometric displacement model (SDM), which describes adsorption as a strict ion-exchange process \cite{Boardman1955}. From the law of mass action, the adsorption equilibrium constant is related to ionic strength, $I$, as:
+        \begin{equation} \label{eq:sdm}
+            K_{eq} = \alpha I^{-\nu}
+        \end{equation}
+        where $\alpha$ is a measure of adsorption strength and $\nu$ is the protein characteristic charge, which represents the stoichiometry of ion exchange. These parameters are commonly estimated by fitting isocratic retention data at different ionic strengths or regressing linear gradient elution data according to Yamamoto's method \cite{Yamamoto1987}. The fundamental equation of ideal linear chromatography predicts that retention factors should also exhibit a power law dependence on ionic strength \cite{Guiochon2006}:
+        \begin{equation} \label{eq:fundamental}
+            k' = \phi K_{eq} = \phi \alpha I^{-\nu}
+        \end{equation}
+        where $k' = (V_R - V_0)/V_0$ is the retention factor for the solute and solution conditions of interest, $V_R$ is the retention volume, and $V_0$ is the retention volume under non-adsorbing conditions. For dimensionless $K_{eq}$, $\phi = (1 - \varepsilon_t)/\varepsilon_t$ is a dimensionless phase ratio where $\varepsilon_t = \varepsilon_c + (1 - \varepsilon_c) \varepsilon_p = V_0/V_{column}$ represents the total column porosity.
+
+        More sophisticated colloidal models that are based on statistical thermodynamics have also been proposed for estimating $K_{eq}$ from the free energy change of molecular adsorption, $\Delta F$, using some form of the general expression \cite{Asthagiri1997}:
+        \begin{equation} \label{eq:keq stat thermo}
+            K_{eq}\left(I, \mathrm{pH} \right) = \int \displaylimits_\Omega \int_{z_0}^{\infty} \left( e^{-\Delta F \left( z, \Omega, I, \mathrm{pH} \right)/k_BT} - 1 \right) \; dz \; d\Omega
+        \end{equation}
+        where $\Omega$ represents the protein orientation with respect to the resin and $z$ is the separation distance. Previous models have used continuum electrostatics and van der Waals equations to estimate $\Delta F$, often making use of mean-field approximations \cite{Guelat2012, Briskot2019}. Notably, the $K_{eq}$ estimates from these models are quite sensitive to $\Delta F$ due to the Boltzmann weighting.
+
+
+\section{Materials and methods} \label{sec:mm}
+
+    \subsection{Chemicals and buffers} \label{ssec:buffers}
+        Sodium hydroxide, hydrochloric acid, sodium chloride, monobasic sodium phosphate, dibasic sodium phosphate, acetic acid, sodium acetate, boric acid, and sodium bicarbonate were purchased from Fisher (Fair Lawn, NJ). Sodium carbonate, ethanolamine, and 2000 kDa blue dextran were purchased from Sigma (St. Louis, MO). Fluorescein isothiocyanate (FITC) and dimethylformamide were purchased from Thermo Scientific (Rockford, IL). All chemicals were used without any further purification.
+
+        Buffer solutions were prepared to the desired constituent concentrations at room temperature with deionized water from an EMD Millipore Milli-Q system ($>$ 18.2 M$\Omega$ cm). Low and high ionic strength buffers were prepared with 0 and 1 M added NaCl, respectively. Buffer pH and conductivity were measured with a Cole-Parmer PC200 meter, and pH adjustments were made with concentrated sodium hydroxide and hydrochloric acid solutions. Prior to use, buffer solutions were filtered with Fisher 0.2 $\mu$m aPES membranes (Pittsburgh, PA).
+
+    \subsection{Proteins} \label{ssec:proteins}
+        Lyophilized hen egg white lysozyme was purchased from Sigma (St. Louis, MO). A mAb sample was obtained from the protein A eluate pool of a manufacturing process at Bristol Myers Squibb (Devens, MA). The mAb was supplied at 35 mg/ml and stored at -80 \degree C. It was thawed prior to use and exchanged into the desired buffer using a GE Sephadex G25 desalting column, and protein solution concentrations were measured with a Thermo Scientific NanoDrop Lite spectrophotometer.
+
+    \subsection{Resins and chromatography equipment} \label{ssec:equip}
+        All chromatographic measurements were performed using an Amersham Biosciences \"{A}kta Explorer equipped with a P-960 sample pump, fraction collector, 10 mm UV flow cell, and in-line pH and conductivity meters. SP Sepharose FF, a strong cation-exchanger with a nominal particle diameter of 90 $\mu$m, was purchased from GE Healthcare (Uppsala, Sweden). It was exchanged three times into a pH 7.0 (25 mM sodium phosphate) buffer by centrifugation and decantation prior to slurry packing (50\%) into a 0.5 $\times$ 10 cm Waters AP chromatography column to a final bed volume of 2.0 ml. Column packing was validated at pH 7.0 by injecting a 100 $\mu$l pulse of a 1 M NaCl buffer and verifying that the conductivity trace asymmetry fell within commonly accepted limits \cite{Carta2010a}.
+
+    \subsection{Linear gradient elution} \label{ssec:lge}
+        The retention of lysozyme on SP Sepharose FF was measured with linear gradient elution at pH 5.0, 7.0, and 9.0 (in 75 mM sodium acetate, 25 mM sodium phosphate, and 25 mM ethanolamine buffers, respectively) at a superficial velocity of 300 cm/h. Feed solutions were prepared by dissolving lysozyme in the appropriate low ionic strength buffer at $\sim$20 mg/ml, and lyophilized excipients were removed with three buffer exchange cycles using EMD Millipore Amicon centrifugal filter units (Cork, Ireland). Lysozyme solutions were filtered using Thermo Scientific 0.2 $\mu$m PVDF membranes (Rockwood, TN) and diluted to $\leq$ 10 mg/ml prior to use. The SP Sepharose FF column was equilibrated in the relevant low ionic strength buffer for 5 column volumes (CV), and gradient elution from 0 to 1 M NaCl began shortly after a 100 $\mu$l sample injection. The gradient elution volume was varied from 10 to 50 CV in increments of 10 CV, and the conductivity at peak elution was determined. This was used with a correlation for the instrument's conductivity response to estimate the peak elution ionic strength. Columns were regenerated at least once every five runs via 15 minutes of contact with 0.5 M NaOH.
+
+    \subsection{Breakthrough measurements during isocratic elution} \label{ssec:exp_breakthrough}
+        To validate corresponding simulation results, frontal loading chromatography was performed with dilute lysozyme solutions on SP Sepharose FF at pH 7.0 (20 mM sodium phosphate) under conditions of weak to moderate retention. The requisite ionic strength for such retention was estimated from linear gradient elution measurements and tuned empirically to target a breakthrough volume of $\sim$10 CV. A feedstock of 10 $\mu$g/ml lysozyme was used to mimic the low impurity concentrations encountered in flow-through polishing, and outlet concentrations were estimated from the absorbance at 215 nm with a computed extinction coefficient \cite{Kuipers2007}. At such low protein concentrations, appreciable variability in component separation was observed between replicate feedstock preparations. For this reason, feedstock batches were  prepared at the desired ionic strength in sufficient volume to service the entire set of measurements, and a batch exhibiting minimal component separation was selected for use. For each measurement, a 10 CV equilibration period preceded a 20 CV load through the \"{A}kta's sample pump, after which the column was washed as described previously. This was performed at superficial velocities ranging from 30 to 305 cm/h in a randomized order, and comparable breakthrough measurements were made under non-adsorbing conditions (at high ionic strength).
+
+
+        To qualitatively validate simulated trends under conditions of greater relevance to flow-through polishing, breakthrough behavior was also demonstrated with fluorescently labelled lysozyme in the presence of a mAb. Lysozyme was conjugated with FITC according to the manufacturer's protocol, producing a complex product mixture with different label ratios and conjugation sites. A fraction of the conjugation products exhibiting relatively homogeneous chromatographic behavior was required to effectively represent the breakthrough of an individual impurity. The conjugation product mixture was therefore subjected to repeated fractionation on SP Sepharose FF at pH 9.5 (20 mM sodium carbonate) using shallow ionic strength steps during elution. Average label ratios and FITC-lysozyme concentrations in the collected fractions were estimated from the absorbance profiles at 280 and 495 nm. Once a sufficiently homogeneous fraction was obtained, it was spiked to $\sim$10 $\mu$g/ml in a mAb solution at pH 9.5, where the mAb was observed to have negligible retention on SP Sepharose FF. As with lysozyme breakthrough measurements, an ionic strength was identified to achieve weak to moderate FITC-lysozyme retention, and breakthrough profiles were acquired over a range of superficial velocities in randomized order. The mAb concentration was dilute due to material constraints, and the eluate absorbance at 495 nm was used to distinguish FITC-lysozyme breakthrough from the mAb flow-through.
+
+
+
+    \subsection{Parameter estimation for test simulations} \label{ssec:params}
+        The breakthrough of lysozyme fed in dilute solution on SP Sepharose FF was simulated in CADET as described in Section~\ref{ssec:sims_explor}. Sequential parameter estimation was used to reduce the dimensionality of the optimization space when fitting the experimental data. Duplicate column bypass profiles were acquired with lysozyme at each flow rate used in breakthrough measurements. These were fit with a trust region optimization algorithm interfaced by the \texttt{Scipy} \texttt{least\_squares} function to determine the extra-column volume (which is invariant with flow rate) and the fraction of that volume allocated to the CSTR in the system model (which varies with flow rate). Triplicate blue dextran pulses, monitored with the absorbance at 280 nm, were then passed through the column to measure $\varepsilon_c$. Peak tailing was observed, which is attributable to size heterogeneity in the blue dextran tracer. For this reason, the average peak mode was used instead of the average first moment to estimate $\varepsilon_c$.
+
+        Duplicate lysozyme pulses under non-adsorbing conditions (high ionic strength) were then passed through the column at each flow rate. Retention volumes under non-adsorbing conditions were computed from the first moment of the absorbance profiles and used to estimate $\varepsilon_p$. These profiles were then fit to estimate $D_p$ (which is invariant with flow rate) and $D_{ax}$ (which varies with flow rate). An evolutionary algorithm interfaced by the \texttt{Scipy} \texttt{differential\_evolution} function was used to estimate $D_p$ and a coarse dependence of $D_{ax}$ on flow rate. The estimated value of $D_p$ was retained, and the coarse $D_{ax}$ estimates were refined using the \texttt{least\_squares} function. Without further refinement, the estimated parameters were validated by modeling dilute lysozyme breakthrough profiles under non-adsorbing conditions (at high ionic strength). Dilute breakthrough profiles under adsorbing conditions (at lower ionic strength) were then simulated by fitting $K_{eq}$ and $D_s$ (which are invariant with flow rate) using the \texttt{differential\_evolution} function.
+
+
+\section{Results and discussion} \label{sec:results}
+    \subsection{Breakthrough volume correlation} \label{ssec:break vol corr}
+        In the context of polishing operations, the value of flow-through IEX is its ability to completely remove as many trace HCPs as possible from a mAb solution. Challenges inherent in this task may not be readily apparent because it is difficult to study the chromatographic behavior of dilute solutes empirically. A column simulation was therefore used to investigate differences between the breakthrough of overloaded products and dilute impurities. An initial set of single-component simulations were performed at different feed concentrations and $K_{eq}$ values. Transport and geometric parameters were held fixed, and a Langmuir isotherm with constant $q_{max} = 100$ mg/ml of column was used. Results for 10 mg/ml and 1 $\mu$g/ml feed concentrations are juxtaposed in Figure~1, corresponding to separation factors that are $<< 1$ (highly favorable) and $\sim$1 (near-linear), respectively \cite{perrys}, while results for intermediate feed concentrations are shown in Supplementary Figure~S1.
+
+
+        As may be expected for the system with a 10 mg/ml feed (separation factor $<< 1$), retention increases with $K_{eq}$ until the column saturates, and breakthrough profiles become sharper as column saturation is approached. This self-sharpening behavior does not occur for the 1 $\mu$g/ml feed (near-linear conditions) over the volume scale simulated, revealing dilute solute breakthrough profiles to become more diffuse as retention increases due to the essentially linear isotherm. An order-of-magnitude difference can be observed between the load volumes corresponding to the initial breakthrough and the inflection point in the more strongly retained profiles. This illustrates an appreciable challenge; even if trace impurities exhibit strong to moderate retention, their diffuse distribution on the column may lead to relatively early breakthrough and preclude adequate clearance.
+
+
+        To better understand this challenge, the load volume corresponding to 1\% breakthrough was identified and plotted against $K_{eq}$ (Figure~2). A couple of trends may be observed. When column saturation is not approached, the breakthrough volume appears to scale linearly with $K_{eq}$. A limiting estimate of the $K_{eq}$ dependence may be obtained as $CV_{breakthrough} = \varepsilon_t + (1 - \varepsilon_t) K_{eq}$ based on the fundamental equation of ideal linear chromatography. As shown, the slope of the dilute solute series differs markedly from the ideal limit, due largely to finite transport rates that limit the system's approach to equilibrium. The discrepancy between the observed and ideal behavior therefore suggests that transport rate optimization may provide a useful means of improving impurity clearance in flow-through processes.
+
+        The simulation data show that the slope of the $CV_{1\%}$ vs. $K_{eq}$ curve for dilute solutes varies with transport and geometric parameters, and the curve approaches an intercept between $\varepsilon_c$ and $\varepsilon_t$ at $K_{eq} = 0$. This observation indicates that the initial breakthrough volume may be approximately described as:
+        \begin{equation} \label{eq:hypothesis}
+            CV_{1\%} = \varepsilon + (1 - \varepsilon_t) K_{eq} f_{1\%}
+        \end{equation}
+        where $\varepsilon_c < \varepsilon < \varepsilon_t$ and $f_{1\%}$ is a function of transport parameters that modifies the breakthrough volume dependence on $K_{eq}$, with $0 \leq f_{1\%} \leq 1$. The form of this relationship has two implications:  it suggests that thermodynamic and transport contributions to impurity breakthrough may be independent, and that transport contributions may be described by a single factor, which can presumably be expressed generally in terms of a dimensionless group.
+
+
+        
+        Based on this rationale, a second set of simulations were performed for a 1 $\mu$g/ml feed with a variety of thermodynamic, transport, and geometric parameters. $f_{1\%}$ was computed from the results by rearranging Equation~\ref{eq:hypothesis} and substituting $\varepsilon_c$ for $\varepsilon$, because $\varepsilon_c$ was observed to generally describe the simulated breakthrough volumes better than $\varepsilon_t$ in the limit of $K_{eq} \to 0$; this may be attributable to finite transport rates limiting the solute exploration of intraparticle void volumes. As was done for the dynamic binding capacity correlation presented by Chen et al. \cite{Chen2020}, $f_{1\%}$ is plotted in Figure~3 against a Graetz number for mass transfer:
+        \begin{equation} \label{eq:dimensionless group}
+            Gz_{eff} = \frac{v d_{part}^2}{D_{eff} L_{col}}
+        \end{equation}
+        % \frac{d_{part}^2 / D_{eff}}{L_{col} / v}
+        % \frac{v d_{part}^2}{D_{eff} L_{col}}
+        This is often written as $Gz_{eff} = \left( d_{part}/L_{col} \right) P\acute{e}_{p - eff}$, where the particle P\'eclet number $P\acute{e}_{p - eff} = v d_{part}/D_{eff}$ represents a ratio of characteristic times for diffusive and convective transport on the length scale of the resin particle. However, $Gz_{eff}$ is more directly meaningful as a ratio of the characteristic times for intraparticle diffusion, $d_{part}^2/D_{eff}$, and convection along the column, $L_{col}/v$.
+
+
+        Figure~3 indicates that Equation~\ref{eq:hypothesis} may be written more specifically as:
+        \begin{equation} \label{eq:breakthrough volume correlation}
+            CV_\% = \varepsilon_c + (1 - \varepsilon_t) K_{eq} f_\% \left( Gz_{eff} \right)
+        \end{equation}
+        where $CV_\%$ is the load volume at a given percent breakthrough threshold, and $f_\%$ is the corresponding function of the Graetz number. Rearranging Equation~\ref{eq:breakthrough volume correlation} reveals this function to be approximately the ratio of dynamic to static binding capacities under linear adsorption conditions when $CV_\% >> \varepsilon_c$. Figure~3 shows two series for illustrative breakthrough thresholds, but any arbitrary threshold could be selected. Some noise is apparent, but it is largely attributable to the approximation that $CV_\%$ is invariant with transport parameters when $K_{eq} = 0$. Within the noise, it is clear that $CV_\%$ decays monotonically with the value of the Graetz number.
+
+        To maximize the load volume before breakthrough, which is approximated by $CV_{1\%}$, the Graetz number should be minimized. Unfortunately, doing so comes at a cost to throughput if $v$ is reduced or an increase in column pressure drop if $d_{part}$ is decreased or $L_{col}$ is increased. This correlation therefore does not suggest a free way of improving flow-through processing. What it does quantify, however, is the inherent balance between separation performance and throughput. Notably, the initial breakthrough volume decays much more quickly with the Graetz number than the intermediate breakthrough volume. The benefit of optimizing the system geometry and transport rates is expected to be only marginal for typical process conditions, which correspond to Graetz numbers on the flat part of the 1\% breakthrough curve in Figure~3. However, if the Graetz number could be decreased below $\sim$5, the benefit would become much more pronounced.
+        % The benefit of optimizing the system geometry and transport rates is only marginal until the Graetz number is decreased to a value of $\sim$5, after which the benefit becomes much more pronounced.
+
+        An interesting subtlety that is implicit in this correlation is the effect of thermodynamics on intraparticle transport rates, which is described by the dependence of $D_{eff}$ on $K_{eq}$. $D_{eff}$ captures the combined effects of pore and surface diffusion in the dilute solute limit by describing the effective intraparticle diffusivity as a weighted sum, where $K_{eq}$ weights the relative importance of surface diffusion. IEX surface diffusivities have been shown to follow a power law of the form $D_s = a K_{eq}^b$ \cite{Khanal7004}, where the empirical power law coefficients $a$ and $b$ are expected to be on the order of $D_p$ and $-0.5$, respectively, with $b < 0$ \cite{Wesselingh2001, Lenhoff2008}. This leads to competing effects: increasing $K_{eq}$ decreases the surface diffusivity but simultaneously increases the driving force for surface diffusion, with the effect that dominates being determined by whether $b > -1$. If this is the case, increasing $K_{eq}$ leads to an increase in $D_{eff}$ and a reduction in the Graetz number, meaning that both thermodynamic and transport contributions to delaying impurity breakthrough are improved simultaneously.
+
+        Equation~\ref{eq:breakthrough volume correlation} also enables estimation of the problematic $K_{eq}$ threshold below which impurities will persist via weak adsorption. To gain a sense for the threshold's order of magnitude, an illustrative calculation was performed with a spline fit to the $f_{1\%}$ curve shown in Figure~3. Results for a 20 cm column with a 6 minute residence time are shown in Figure~4 as a function of load volume using $\varepsilon_c = 0.35$, $\varepsilon_p = 0.5$, $d_{part} = 50$ $\mu$m, $D_p = 10^{-11}$ m$^2$/s, and $D_s$ estimated from the power law discussed previously. The results show that, for load volumes on the order of 100 CV, HCPs with $K_{eq} < \; \sim$400 are liable to break through before the end of loading. This would be equivalent to a retention factor of $\sim$200 for an input feed pulse under identical conditions.
+
+
+    \subsection{Validation of the breakthrough volume correlation} \label{ssec:validation}
+        To validate the breakthrough volume correlation that was developed from simulation results, frontal loading chromatography was performed as described in Section~\ref{ssec:exp_breakthrough}. Using a highly pure feedstock was found to be essential for demonstrating the behavior of individual species in the dilute limit. Various model proteins were tested with AEX and CEX resins, but only lysozyme was found to be readily prepared in sufficient purity. It was therefore used with SP Sepharose FF, despite the fact that most mAb flow-through purification processes are performed with AEX resins. Figure~5 shows breakthrough profiles acquired by loading lysozyme onto SP Sepharose FF at 10 $\mu$g/ml under high and low ionic strength conditions. The flow rate was varied to change the value of the Graetz number, and an increase in breakthrough volume was observed at lower flow rates. Equation~\ref{eq:breakthrough volume correlation} indicates that transport parameters should have a more pronounced effect on the initial breakthrough volume when retention is stronger, due to the $K_{eq}$ weighting of $f_\%$. This is consistent with the observed behavior at low ionic strength, where $K_{eq}$ is higher. Column models with fit parameters showed excellent agreement at high ionic strength. Although not perfect, the agreement was also quantitatively close at low ionic strength. Discrepancies from simulation under these conditions may be attributable to feedstock component separation, as well as inaccuracies in describing extra-column effects with the simplified model of a CSTR in series with a PFR, which are more pronounced at low flow rates.
+
+        The breakthrough volume correlation was also qualitatively validated using FITC-lysozyme in the presence of a mAb. As with lysozyme measurements, the flow rate was varied to change the value of the correlation variable under conditions of weak FITC-lysozyme retention. Figure~6 shows breakthrough profiles that were computed from absorbance measurements at 495 and 280 nm, using the average FITC-lysozyme label ratio estimated during fractionation of the conjugation products. Appreciable measurement noise is apparent in the FITC-lysozyme profiles due to the low load concentration of $\sim$10 $\mu$g/ml. Nonetheless, the observed trend is consistent with the previous results:  using lower flow rates delayed the onset of FITC-lysozyme breakthrough. This was not modeled explicitly due to the multicomponent nature of the FITC-lysozyme conjugation products, but it does support the breakthrough volume correlation qualitatively.
+
+
+
+    \subsection{Correlation of SDM parameters} \label{ssec:thermo corr}
+
+        A knowledge of phenomenological properties is required to estimate breakthrough volumes using Equation~\ref{eq:breakthrough volume correlation}, specifically values of $D_p$, $D_s$, and $K_{eq}$. However, such information is typically unknown for impurities such as HCPs on IEX resins. Methods of estimating these properties could therefore be useful, and some heuristics already exist for estimating the two intraparticle diffusivities. For instance, $D_s$ is typically an order of magnitude smaller than $D_p$ under the relevant conditions of weak adsorption, and $D_p$ should theoretically scale with the free solution diffusivity, $D_0$, according to \cite{Carta2010a}:
+        \begin{equation} \label{eq:tortuosity relationship}
+            % \frac{D_p}{D_0} = \frac{\varepsilon_p \psi_p}{\tau_p}
+            D_p = \frac{\varepsilon_p \psi_p}{\tau_p} D_0
+        \end{equation}
+        where $\psi_p$ and $\tau_p$ are the diffusional hindrance coefficient and the resin tortuosity factor, respectively. If a putative weakly adsorbing HCP has been identified, its molar mass may be used with the Stokes-Einstein equation or correlations to estimate $D_0$ \cite{Young1980}. Appreciable uncertainty surrounds the value of $\psi_p$/$\tau_p$, but 0.2 appears to be representative of its order of magnitude \cite{Angelo2016b}. Assuming a value like this enables rough estimation of $D_p$ and $D_s$ based on protein mass.
+
+
+
+        This leaves the estimation of $K_{eq}$, which varies with the solution conditions, as the main obstacle to applying the breakthrough volume correlation in practice. It is expected that $K_{eq}$ will follow a power law in ionic strength of the SDM form, but the dependence on pH is less well defined. Several electrostatics models have been proposed for describing this behavior, but doing so predictively remains an open problem. In the absence of such predictive tools, insights may be drawn from experimental data on the retention of model proteins. To facilitate observation of system-independent trends, isocratic $k'$ measurements at different ionic strengths were consolidated from the extant literature on 230 protein-pH-resin combinations, as shown in Supplementary Figure~S2 and the accompanying spreadsheet \cite{Staby2000, Staby2001, Staby2004, Staby2005, Staby2006, Staby2007, DePhillips2001, DePhillips2004, Kumar2015, bai1999}. These data were regressed according to Equation~\ref{eq:fundamental} to extract the SDM parameter $\nu$ and the quasi-SDM parameter $\phi \alpha$, which are plotted against each other in Figure~7 and observed to follow a significant intrinsically linear correlation (as determined by regressor t-tests).
+
+
+        This previously unobserved correlation is expected to be a consequence of adsorption thermodynamics rather than resin morphology, so the true relationship represented in Figure~\ref{fig-fig:sdm parameter correlation} is suspected to be between $\nu$ and $\alpha$. Inverse size exclusion chromatography data are unavailable for the majority of the resins studied, which precludes estimation of $\phi$ values that are specific to protein-resin pairs. However, all phase ratios are expected to be of comparable magnitude, and $\alpha$ may span several orders of magnitude, so the inclusion of $\phi$ is not expected to introduce much noise in the correlation. The fact that $\phi \alpha$ spans several orders of magnitude makes the prediction interval appreciably broad in terms of absolute values, and explaining some of the noise with additional factors would be advantageous. The ion-exchange type was tested for this purpose, and a significant difference was found between the correlations for AEX and CEX isocratic data (by including an interaction with the categorical variable). The mechanisms underlying this difference are not understood.
+        % the \texttt{OLS} method of the Python \texttt{statsmodels} package
+
+
+        The utility of these relationships lies in their ability to remove one degree of freedom from the analysis of retention data. A series of measurements are usually performed to estimate SDM parameters, either from isocratic retention at different ionic strengths or elution peak ionic strength under linear gradient salt elutions of different volumes. The identified correlation could potentially enable the estimation of SDM parameters from only one experimental measurement. This concept is illustrated in Figure~8, which shows linear gradient elution data for lysozyme on SP Sepharose FF, collected as part of this study, plotted in the regression space for Yamamoto's GH analysis \cite{Yamamoto1987}. Juxtaposed with these data are predictions from the correlation of isocratic CEX SDM parameters. Close agreement is observed between predictions and experiment at each of the pH values tested. One point in each series would be sufficient to estimate roughly the value of $\nu$, and therefore that of $\phi \alpha$ when using the correlation. However, because the uncertainty in $\phi \alpha$ is with respect to its order of magnitude, the absolute value of its estimate needs to be interpreted with caution.
+
+
+        The linear gradient elution data were regressed according to Yamamoto's method, and the SDM parameters are plotted in Figure~7. Analogous CEX gradient elution data for a mAb and its aggregates that had relatively large SDM parameters were also obtained from the literature and included in Figure~7 \cite{Saleh2020}. Both sets of gradient elution data are consistent with the correlation of isocratic CEX data within the 95\% prediction interval. This confirms the correlation's utility in removing a degree of freedom from the analysis of retention data. Unfortunately, it does not eliminate the need for some experimental data in estimating $K_{eq}$, but it may reduce the burden of doing so. As proteomic techniques advance, it may become possible to quantitatively measure HCP retention. This would foreseeably be an expensive operation, and it may be essential to minimize the number of requisite measurements. The SDM parameter correlation may be useful in such an application.
+
+        From an intuitive perspective, the essential features of this correlation appear to be broadly consistent with theory. If the characteristic charge indeed represents the number of attractive point charge interactions between the protein and the IEX resin, it seems reasonable to hypothesize that increasing this number at constant ionic strength would result in an approximately proportional increase in the adsorption free energy. This would result in an order-of-magnitude increase in $K_{eq}$, which at the unit concentration of ionic strength is equivalent to $\alpha$; such an argument may rationalize the positive and log-linear correlation between $\nu$ and $\phi \alpha$. The reality is necessarily more complex, however, as the adsorption free energy would theoretically be a function of the pH, resin, protein, and the protein's adsorbed orientation.  These are incorporated in a statistical thermodynamic calculation of $K_{eq}$ in Equation \ref{eq:keq stat thermo}, albeit implicitly with respect to the resin and protein species. Perhaps the dependence on all four variables can be generalized approximately by the characteristic charge, but this would require evaluation and proof using a rigorous biophysical model. Developing that proof, or at least exhibiting behavior that is consistent with the empirical SDM parameter correlation (Figure~7), may provide a good validity test for molecular adsorption models.
+
+\section{Conclusions} \label{sec:concl}
+
+    Unlike concentrated solutes, the approximately linear chromatographic behavior of dilute impurities can lead to diffuse breakthrough. This can make it challenging to remove flow-through impurities completely, but it also enables breakthrough volumes to be analytically related to phenomenological properties. Specifically, the Graetz number can describe transport contributions to dilute solute breakthrough volumes generally when an effective intraparticle diffusivity is used. Knowledge of this relationship enables a problematic equilibrium constant threshold to be estimated, which is on the order of 400 for typical process conditions. However, for this to be used in practice, the IEX adsorption equilibria of impurities of interest must be known. The correlation of SDM model parameters may be useful in estimating such data approximately from one linear gradient elution measurement, and it may serve as a validity test for molecular adsorption models as well.
+
+
+\section*{Acknowledgements}
+    We thank Bristol Myers Squibb for providing materials and financial support. We also thank the CADET developers for making their work free and open source, and for providing pedagogical support.
+
+\section*{Declaration of competing interest}
+    The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+\section*{CRediT authorship contribution statement}
+    \textbf{Chase E. Herman:} Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Validation, Visualization, Writing - original draft.
+    \textbf{Xuankuo Xu:} Conceptualization, Funding acquisition, Project administration, Resources.
+    \textbf{Steven J. Traylor:} Conceptualization, Resources.
+    \textbf{Sanchayita Ghose:} Resources.
+    \textbf{Zheng Jian Li:} Resources.
+    \textbf{Abraham M. Lenhoff:} Conceptualization, Formal analysis, Funding acquisition, Project administration, Supervision, Writing - review \& editing.
+
+    % Conceptualization, Data curation, Formal analysis, Funding acquisition, Investigation, Methodology, Project administration, Resources, Software, Supervision, Validation, Visualization, Writing - original draft, Writing - review & editing
+
+
+\section*{ORCID}
+    \begin{tabular}{l l}
+    \textbf{Chase E. Herman:} & https://orcid.org/0000-0002-9989-9604 \\
+    \textbf{Xuankuo Xu:} & https://orcid.org/0000-0002-5557-0284 \\
+    \textbf{Steven Traylor:} & https://orcid.org/0000-0002-9433-0048 \\
+    \textbf{Zheng Jian Li:} & https://orcid.org/0000-0002-1941-4145 \\
+    \textbf{Abraham M. Lenhoff:} & https://orcid.org/0000-0002-7831-219X \\
+    \end{tabular}
+
+\section*{Supplementary material}
+    Supplementary material is associated with this article.
+
+\bibliographystyle{elsarticle-num}
+\bibliography{main}
+
+\end{document}
+\endinput
+
+
+%% For reference - citations
+% \cite{Fabioetal2013}
+% \cite{Blondeletal2008,FabricioLiang2013}
+% see appendix~\ref{sec:sample:appendix}
+
+%% Appendices
+% \appendix
+% \section{Sample Appendix Section}
+% \label{sec:sample:appendix}
+% \ref{sec:sample1}
