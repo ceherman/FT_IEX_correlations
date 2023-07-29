@@ -1,4 +1,4 @@
-# FT_IEX_correlations
+# Correlations in flow-through ion-exchange chromatography
 
 This repository contains information pertaining to the manuscript
 
