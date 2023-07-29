@@ -9,7 +9,7 @@ C. E. Herman, X. Xu, S. J. Traylor, S. Ghose, Z. J. Li, A. M. Lenhoff. Behavior 
 
 ## Retentivity data
 - Consilidated literature data that were used to discover the correlation between stoichiometric displacement model (SDM) parameters
-- Also contains an attempt to reproduce the SDM parameter correlation from mean-field electrostatics models
+- Also contains attempts to reproduce the SDM parameter correlation from mean-field and discrete-charge electrostatics models
 
 ## Writing
 - Scripts used during LaTeX compilation
