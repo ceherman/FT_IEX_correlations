@@ -1,0 +1,294 @@
+,tis_mM,kprime,resin,iex_type,protein,data_set,pH
+0,85.0,51.82928121244455,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+1,110.0,14.542369858290716,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+2,135.0,6.201620489861668,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+3,160.0,2.724928968771874,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+4,185.0,1.3697937677128589,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+5,210.0,0.7532084540676447,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+6,260.0,0.3359426826505306,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+7,310.0,0.21774850699518708,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+8,360.0,0.09285925305002952,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+9,410.0,0.0648612308572369,SP Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+10,135.0,62.214136501392005,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+11,160.0,26.93078902889521,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+12,185.0,12.376250119960256,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+13,210.0,6.315083215331159,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+14,260.0,2.2507594266134667,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+15,310.0,1.0657346293859304,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+16,360.0,0.8644683107079897,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+17,410.0,0.6805328247021089,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+18,510.0,0.23540141969721617,SP Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+19,45.0,68.46212032651476,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+20,60.0,16.053892312478286,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+21,85.0,5.389523196372751,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+22,135.0,0.8315154928947085,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+23,160.0,0.39372260098990514,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+24,185.0,0.23330301188021998,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+25,210.0,0.16541326935328737,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+26,260.0,0.11046898036317213,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+27,310.0,0.08315154928947081,SP-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+28,85.0,84.43332838433808,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+29,110.0,24.409220444932537,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+30,135.0,14.681617648779318,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+31,160.0,6.646972922574333,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+32,185.0,3.341364926514787,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+33,210.0,1.864978844019239,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+34,260.0,0.7380298197022344,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+35,310.0,0.37658577369074947,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+36,360.0,0.24777296027775297,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+37,410.0,0.18930579538864276,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+38,460.0,0.09375056842693627,EMD sulfonate M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+39,60.0,77.60484428071568,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+40,85.0,13.903970312520613,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+41,110.0,4.598527964019687,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+42,135.0,2.2772925836870637,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+43,160.0,1.1110633750652574,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+44,185.0,0.62013869614135,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+45,210.0,0.4267257317606019,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+46,260.0,0.2644592925377796,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+47,310.0,0.1663638000236709,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+48,410.0,0.09285575633859774,CM Sepharose FF,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+49,85.0,20.65123624650418,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+50,110.0,6.24390166814707,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+51,135.0,3.1860754410838865,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+52,160.0,1.6501979944854377,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+53,260.0,0.3046323740164775,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+54,310.0,0.15778149072525163,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+55,360.0,0.08420270724927463,CM Spherodex M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+56,45.0,65.23401585503791,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+57,60.0,19.142740622406937,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+58,85.0,5.451852718003457,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+59,110.0,1.8858368372751375,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+60,135.0,0.9622858834861618,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+61,160.0,0.5291321071506477,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+62,185.0,0.318261506974571,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+63,210.0,0.2360011476142464,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+64,260.0,0.14408677297682548,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+65,310.0,0.11343161483797791,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+66,360.0,0.10064312535972081,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+67,410.0,0.046947677742119345,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+68,460.0,0.05059226404093142,CM-650 M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+69,60.0,34.459778991092534,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+70,85.0,8.325924871918907,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+71,110.0,3.0121215120180467,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+72,135.0,1.3842434837111608,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+73,160.0,0.7169559738744271,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+74,185.0,0.4185356804049153,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+75,210.0,0.27536737701006503,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+76,260.0,0.16562751568939799,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+77,310.0,0.09814371378077345,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+78,360.0,0.032459549478987146,EMD carboxylic M,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+79,110.0,41.758551624622555,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+80,135.0,24.01515682074202,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+81,160.0,8.688112322297748,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+82,185.0,2.706670732876774,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+83,235.0,0.8819123552830394,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+84,260.0,0.46366618803341114,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+85,360.0,0.2626911410482732,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+86,410.0,0.1444459691013223,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+87,460.0,0.05978543960227901,SP-550 C,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+88,85.0,102.53449575884171,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+89,110.0,25.37172526267665,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+90,135.0,10.942838758781432,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+91,160.0,5.164639351678744,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+92,185.0,2.51188643150958,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+93,210.0,1.398459842837442,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+94,260.0,0.49619227654420606,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+95,310.0,0.1955689932028923,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+96,410.0,0.04356422576081621,Cellufine S,cex,alpha-chymotrypsinogen A,DePhillips,7.0
+97,135.0,45.68845679465696,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+98,160.0,17.450444316242223,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+99,185.0,7.864235119722443,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+100,210.0,4.11923424456363,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+101,235.0,2.3613289372227606,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+102,260.0,1.526709785644027,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+103,310.0,0.7529852851055996,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+104,360.0,0.4653572552581614,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+105,410.0,0.3549984765111735,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+106,460.0,0.27907857018178844,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+107,510.0,0.2627885806659544,SP Sepharose FF,cex,cytochrome c,DePhillips,7.0
+108,185.0,77.27517857457939,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+109,210.0,34.82491117222708,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+110,235.0,19.665274699527565,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+111,260.0,11.972091222906847,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+112,285.0,7.62500297287981,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+113,310.0,5.235522343328353,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+114,360.0,2.9564464520206877,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+115,410.0,1.8829553305344968,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+116,460.0,1.2928555893650366,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+117,510.0,0.9148291982057749,SP Spherodex M,cex,cytochrome c,DePhillips,7.0
+118,60.0,106.07731491567235,SP-650 M,cex,cytochrome c,DePhillips,7.0
+119,85.0,19.684415252284634,SP-650 M,cex,cytochrome c,DePhillips,7.0
+120,110.0,5.400606292616918,SP-650 M,cex,cytochrome c,DePhillips,7.0
+121,135.0,2.0627306325277366,SP-650 M,cex,cytochrome c,DePhillips,7.0
+122,160.0,0.8493809534169124,SP-650 M,cex,cytochrome c,DePhillips,7.0
+123,185.0,0.44490011510725724,SP-650 M,cex,cytochrome c,DePhillips,7.0
+124,210.0,0.26681025512101725,SP-650 M,cex,cytochrome c,DePhillips,7.0
+125,235.0,0.1804648056380225,SP-650 M,cex,cytochrome c,DePhillips,7.0
+126,260.0,0.13561337305009116,SP-650 M,cex,cytochrome c,DePhillips,7.0
+127,310.0,0.09741201301420176,SP-650 M,cex,cytochrome c,DePhillips,7.0
+128,360.0,0.06490415768791513,SP-650 M,cex,cytochrome c,DePhillips,7.0
+129,410.0,0.035034225266352456,SP-650 M,cex,cytochrome c,DePhillips,7.0
+130,160.0,39.26628050650782,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+131,185.0,19.077425433185816,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+132,210.0,9.992629028271178,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+133,235.0,5.903230819872706,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+134,260.0,3.59384849513895,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+135,285.0,2.430803005954855,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+136,310.0,1.7460624179266824,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+137,360.0,0.9859837666558976,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+138,410.0,0.6471422651702903,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+139,460.0,0.44434445477095313,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+140,510.0,0.31441247169828146,EMD sulfonate M,cex,cytochrome c,DePhillips,7.0
+141,85.0,88.44963947018935,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+142,110.0,29.06605339465471,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+143,135.0,9.130321430438748,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+144,160.0,3.8165949122543568,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+145,185.0,1.9398406997849598,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+146,210.0,1.128875550368741,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+147,260.0,0.4936692392958241,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+148,310.0,0.30971772962345,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+149,360.0,0.2327373403450576,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+150,410.0,0.1622280944797647,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+151,460.0,0.1097251206418609,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+152,510.0,0.05661559384503467,CM Sepharose FF,cex,cytochrome c,DePhillips,7.0
+153,95.0,179.38085996361417,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+154,110.0,40.474929570495405,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+155,135.0,17.435969542824644,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+156,160.0,8.729836334861046,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+157,185.0,4.641903435918858,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+158,210.0,2.825960594594713,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+159,260.0,1.2545445893146652,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+160,310.0,0.7637585793215598,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+161,460.0,0.29171321367680314,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+162,510.0,0.1723320688348367,CM Spherodex M,cex,cytochrome c,DePhillips,7.0
+163,60.0,54.7441731916521,CM-650 M,cex,cytochrome c,DePhillips,7.0
+164,85.0,17.721394799292028,CM-650 M,cex,cytochrome c,DePhillips,7.0
+165,135.0,2.0020637440887623,CM-650 M,cex,cytochrome c,DePhillips,7.0
+166,185.0,0.5094926238892163,CM-650 M,cex,cytochrome c,DePhillips,7.0
+167,210.0,0.3148747973130893,CM-650 M,cex,cytochrome c,DePhillips,7.0
+168,260.0,0.17780660959899802,CM-650 M,cex,cytochrome c,DePhillips,7.0
+169,310.0,0.1202646248656553,CM-650 M,cex,cytochrome c,DePhillips,7.0
+170,360.0,0.0699870843003536,CM-650 M,cex,cytochrome c,DePhillips,7.0
+171,410.0,0.050272201135900425,CM-650 M,cex,cytochrome c,DePhillips,7.0
+172,460.0,0.03250333327567378,CM-650 M,cex,cytochrome c,DePhillips,7.0
+173,85.0,60.384581988946,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+174,110.0,25.241552573307683,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+175,135.0,9.786920584066957,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+176,160.0,4.410583660584284,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+177,185.0,2.241744248816346,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+178,210.0,1.304566025936586,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+179,260.0,0.5879035251040385,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+180,310.0,0.33702030264088223,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+181,360.0,0.25325968609728194,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+182,410.0,0.18467413106985564,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+183,460.0,0.15188191498488174,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+184,510.0,0.08706549314788987,EMD carboxylic M,cex,cytochrome c,DePhillips,7.0
+185,135.0,87.00835801762513,SP-550 C,cex,cytochrome c,DePhillips,7.0
+186,160.0,22.81817848716904,SP-550 C,cex,cytochrome c,DePhillips,7.0
+187,185.0,10.920712473799915,SP-550 C,cex,cytochrome c,DePhillips,7.0
+188,210.0,5.806854883679859,SP-550 C,cex,cytochrome c,DePhillips,7.0
+189,235.0,3.328825065206311,SP-550 C,cex,cytochrome c,DePhillips,7.0
+190,260.0,2.0572684834893322,SP-550 C,cex,cytochrome c,DePhillips,7.0
+191,310.0,1.0456611504272617,SP-550 C,cex,cytochrome c,DePhillips,7.0
+192,410.0,0.39938428564570466,SP-550 C,cex,cytochrome c,DePhillips,7.0
+193,460.0,0.28688046286273644,SP-550 C,cex,cytochrome c,DePhillips,7.0
+194,510.0,0.2155812436305316,SP-550 C,cex,cytochrome c,DePhillips,7.0
+195,145.0,143.3705660803242,Cellufine S,cex,cytochrome c,DePhillips,7.0
+196,160.0,32.67382660631433,Cellufine S,cex,cytochrome c,DePhillips,7.0
+197,185.0,14.143926798636954,Cellufine S,cex,cytochrome c,DePhillips,7.0
+198,210.0,7.109842824541918,Cellufine S,cex,cytochrome c,DePhillips,7.0
+199,260.0,2.386601998725527,Cellufine S,cex,cytochrome c,DePhillips,7.0
+200,310.0,1.311625948711416,Cellufine S,cex,cytochrome c,DePhillips,7.0
+201,360.0,1.0472249965958587,Cellufine S,cex,cytochrome c,DePhillips,7.0
+202,410.0,0.46714316623128654,Cellufine S,cex,cytochrome c,DePhillips,7.0
+203,460.0,0.21472370886217057,Cellufine S,cex,cytochrome c,DePhillips,7.0
+204,510.0,0.11808099390104697,Cellufine S,cex,cytochrome c,DePhillips,7.0
+205,160.0,83.57886887490463,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+206,210.0,19.475404617781994,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+207,260.0,4.3382691174980685,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+208,310.0,2.047512158069865,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+209,360.0,0.966354535391679,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+210,410.0,0.6539981040025692,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+211,508.96000000000004,0.4044608491133337,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+212,610.0,0.3040650396054567,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+213,710.0,0.246408956332876,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+214,810.0,0.15239351604262577,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+215,910.0,0.09567236048582459,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+216,1010.0,0.07753298227769703,SP Sepharose FF,cex,lysozyme,DePhillips,7.0
+217,310.0,51.67375447400086,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+218,360.0,18.334539959343875,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+219,410.0,6.603740780018483,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+220,460.0,3.359773631841823,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+221,508.96000000000004,1.9567260072494619,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+222,610.0,0.8439369798767137,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+223,710.0,0.4166678746196019,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+224,810.0,0.2500633341031461,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+225,1010.0,0.11453019953363948,SP Spherodex M,cex,lysozyme,DePhillips,7.0
+226,160.0,70.7966190519282,SP-650 M,cex,lysozyme,DePhillips,7.0
+227,210.0,9.047581796207222,SP-650 M,cex,lysozyme,DePhillips,7.0
+228,260.0,3.5128735579009165,SP-650 M,cex,lysozyme,DePhillips,7.0
+229,310.0,1.2464145730278327,SP-650 M,cex,lysozyme,DePhillips,7.0
+230,360.0,0.5539652444297742,SP-650 M,cex,lysozyme,DePhillips,7.0
+231,410.0,0.2948305741011036,SP-650 M,cex,lysozyme,DePhillips,7.0
+232,508.96000000000004,0.10000288244320314,SP-650 M,cex,lysozyme,DePhillips,7.0
+233,610.0,0.04649460025136857,SP-650 M,cex,lysozyme,DePhillips,7.0
+234,710.0,0.01725688949567476,SP-650 M,cex,lysozyme,DePhillips,7.0
+235,210.0,86.06166911826278,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+236,260.0,21.945211194509003,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+237,310.0,9.753483749710401,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+238,360.0,4.144000171670969,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+239,410.0,1.9854537035982944,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+240,508.96000000000004,0.7259383913422728,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+241,610.0,0.3178408875063407,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+242,710.0,0.15227891183010644,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+243,810.0,0.07187035081161743,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+244,910.0,0.04719975721525307,EMD sulfonate M,cex,lysozyme,DePhillips,7.0
+245,160.0,26.662205228566275,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+246,210.0,4.398312340863698,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+247,260.0,1.5605801085697097,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+248,310.0,0.6531697557208136,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+249,360.0,0.32736034295871586,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+250,410.0,0.20552093498669968,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+251,508.96000000000004,0.0873204704823699,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+252,610.0,0.04717545168256405,CM Sepharose FF,cex,lysozyme,DePhillips,7.0
+253,160.0,43.15748236244522,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+254,210.0,9.329021666528517,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+255,260.0,3.4110344193737783,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+256,310.0,1.609889625586535,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+257,360.0,0.7829897949068634,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+258,410.0,0.5975250291169522,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+259,460.0,0.4989948940258728,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+260,508.96000000000004,0.3132752618930382,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+261,610.0,0.095654653250081,CM Spherodex M,cex,lysozyme,DePhillips,7.0
+262,160.0,51.6627953311869,CM-650 M,cex,lysozyme,DePhillips,7.0
+263,210.0,7.557843607802427,CM-650 M,cex,lysozyme,DePhillips,7.0
+264,260.0,2.6416659658103123,CM-650 M,cex,lysozyme,DePhillips,7.0
+265,310.0,1.0411849956835075,CM-650 M,cex,lysozyme,DePhillips,7.0
+266,360.0,0.4988476158718972,CM-650 M,cex,lysozyme,DePhillips,7.0
+267,410.0,0.3039120366423749,CM-650 M,cex,lysozyme,DePhillips,7.0
+268,508.96000000000004,0.1500472018628591,CM-650 M,cex,lysozyme,DePhillips,7.0
+269,610.0,0.09707287693716858,CM-650 M,cex,lysozyme,DePhillips,7.0
+270,710.0,0.05913953438696094,CM-650 M,cex,lysozyme,DePhillips,7.0
+271,810.0,0.034963741522022716,CM-650 M,cex,lysozyme,DePhillips,7.0
+272,160.0,36.33423863847885,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+273,210.0,6.658341474081711,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+274,260.0,2.095009826097187,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+275,310.0,0.7775996639857145,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+276,360.0,0.39561801927375934,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+277,410.0,0.25213089430222435,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+278,508.96000000000004,0.14249383147771968,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+279,610.0,0.07141608920726908,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+280,710.0,0.03525949308203522,EMD carboxylic M,cex,lysozyme,DePhillips,7.0
+281,310.0,294.4970663702098,SP-550 C,cex,lysozyme,DePhillips,7.0
+282,360.0,45.067241144104926,SP-550 C,cex,lysozyme,DePhillips,7.0
+283,385.0,22.250561392897456,SP-550 C,cex,lysozyme,DePhillips,7.0
+284,410.0,9.453681638079344,SP-550 C,cex,lysozyme,DePhillips,7.0
+285,460.0,5.423766357490132,SP-550 C,cex,lysozyme,DePhillips,7.0
+286,508.96000000000004,2.843550679533295,SP-550 C,cex,lysozyme,DePhillips,7.0
+287,560.0,1.9535339940720098,SP-550 C,cex,lysozyme,DePhillips,7.0
+288,610.0,1.3623885121057613,SP-550 C,cex,lysozyme,DePhillips,7.0
+289,710.0,0.6931400174196928,SP-550 C,cex,lysozyme,DePhillips,7.0
+290,810.0,0.4552091393590008,SP-550 C,cex,lysozyme,DePhillips,7.0
+291,910.0,0.3034736393666128,SP-550 C,cex,lysozyme,DePhillips,7.0
+292,1010.0,0.24965540501409741,SP-550 C,cex,lysozyme,DePhillips,7.0

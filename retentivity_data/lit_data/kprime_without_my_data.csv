@@ -1,0 +1,1328 @@
+data_set,iex_type,resin,protein,pH,tis_mM,kprime
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,85.0,51.8292812124445
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,110.0,14.5423698582907
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,135.0,6.20162048986167
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,160.0,2.72492896877187
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,185.0,1.36979376771286
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,210.0,0.753208454067645
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,260.0,0.335942682650531
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,310.0,0.217748506995187
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,360.0,0.09285925305003
+DePhillips,cex,SP Sepharose FF,alpha-chymotrypsinogen A,7.0,410.0,0.064861230857237
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,135.0,62.214136501392
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,160.0,26.9307890288952
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,185.0,12.3762501199603
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,210.0,6.31508321533116
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,260.0,2.25075942661347
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,310.0,1.06573462938593
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,360.0,0.86446831070799
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,410.0,0.680532824702109
+DePhillips,cex,SP Spherodex M,alpha-chymotrypsinogen A,7.0,510.0,0.235401419697216
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,45.0,68.4621203265148
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,60.0,16.0538923124783
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,85.0,5.38952319637275
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,135.0,0.831515492894708
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,160.0,0.393722600989905
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,185.0,0.23330301188022
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,210.0,0.165413269353287
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,260.0,0.110468980363172
+DePhillips,cex,SP Toyopearl 650m,alpha-chymotrypsinogen A,7.0,310.0,0.083151549289471
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,85.0,84.4333283843381
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,110.0,24.4092204449325
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,135.0,14.6816176487793
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,160.0,6.64697292257433
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,185.0,3.34136492651479
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,210.0,1.86497884401924
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,260.0,0.738029819702234
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,310.0,0.376585773690749
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,360.0,0.247772960277753
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,410.0,0.189305795388643
+DePhillips,cex,Fractogel EMD SO3-,alpha-chymotrypsinogen A,7.0,460.0,0.093750568426936
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,60.0,77.6048442807157
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,85.0,13.9039703125206
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,110.0,4.59852796401969
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,135.0,2.27729258368706
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,160.0,1.11106337506526
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,185.0,0.62013869614135
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,210.0,0.426725731760602
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,260.0,0.26445929253778
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,310.0,0.166363800023671
+DePhillips,cex,CM Sepharose FF,alpha-chymotrypsinogen A,7.0,410.0,0.092855756338598
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,85.0,20.6512362465042
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,110.0,6.24390166814707
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,135.0,3.18607544108389
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,160.0,1.65019799448544
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,260.0,0.304632374016477
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,310.0,0.157781490725252
+DePhillips,cex,CM Spherodex M,alpha-chymotrypsinogen A,7.0,360.0,0.084202707249275
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,45.0,65.2340158550379
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,60.0,19.1427406224069
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,85.0,5.45185271800346
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,110.0,1.88583683727514
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,135.0,0.962285883486162
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,160.0,0.529132107150648
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,185.0,0.318261506974571
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,210.0,0.236001147614246
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,260.0,0.144086772976825
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,310.0,0.113431614837978
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,360.0,0.100643125359721
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,410.0,0.046947677742119
+DePhillips,cex,CM Toyopearl 650m,alpha-chymotrypsinogen A,7.0,460.0,0.050592264040932
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,60.0,34.4597789910925
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,85.0,8.32592487191891
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,110.0,3.01212151201805
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,135.0,1.38424348371116
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,160.0,0.716955973874427
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,185.0,0.418535680404915
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,210.0,0.275367377010065
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,260.0,0.165627515689398
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,310.0,0.098143713780774
+DePhillips,cex,Fractogel EMD COO- (M),alpha-chymotrypsinogen A,7.0,360.0,0.032459549478987
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,110.0,41.7585516246226
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,135.0,24.015156820742
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,160.0,8.68811232229775
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,185.0,2.70667073287677
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,235.0,0.881912355283039
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,260.0,0.463666188033411
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,360.0,0.262691141048273
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,410.0,0.144445969101322
+DePhillips,cex,SP-550 C,alpha-chymotrypsinogen A,7.0,460.0,0.059785439602279
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,85.0,102.534495758842
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,110.0,25.3717252626766
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,135.0,10.9428387587814
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,160.0,5.16463935167874
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,185.0,2.51188643150958
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,210.0,1.39845984283744
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,260.0,0.496192276544206
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,310.0,0.195568993202892
+DePhillips,cex,Cellufine sulfate,alpha-chymotrypsinogen A,7.0,410.0,0.043564225760816
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,135.0,45.688456794657
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,160.0,17.4504443162422
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,185.0,7.86423511972244
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,210.0,4.11923424456363
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,235.0,2.36132893722276
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,260.0,1.52670978564403
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,310.0,0.7529852851056
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,360.0,0.465357255258161
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,410.0,0.354998476511173
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,460.0,0.279078570181788
+DePhillips,cex,SP Sepharose FF,cytochrome c,7.0,510.0,0.262788580665954
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,185.0,77.2751785745794
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,210.0,34.8249111722271
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,235.0,19.6652746995276
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,260.0,11.9720912229068
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,285.0,7.62500297287981
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,310.0,5.23552234332835
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,360.0,2.95644645202069
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,410.0,1.8829553305345
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,460.0,1.29285558936504
+DePhillips,cex,SP Spherodex M,cytochrome c,7.0,510.0,0.914829198205775
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,60.0,106.077314915672
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,85.0,19.6844152522846
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,110.0,5.40060629261692
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,135.0,2.06273063252774
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,160.0,0.849380953416912
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,185.0,0.444900115107257
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,210.0,0.266810255121017
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,235.0,0.180464805638023
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,260.0,0.135613373050091
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,310.0,0.097412013014202
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,360.0,0.064904157687915
+DePhillips,cex,SP Toyopearl 650m,cytochrome c,7.0,410.0,0.035034225266353
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,160.0,39.2662805065078
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,185.0,19.0774254331858
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,210.0,9.99262902827118
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,235.0,5.90323081987271
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,260.0,3.59384849513895
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,285.0,2.43080300595485
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,310.0,1.74606241792668
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,360.0,0.985983766655898
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,410.0,0.64714226517029
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,460.0,0.444344454770953
+DePhillips,cex,Fractogel EMD SO3-,cytochrome c,7.0,510.0,0.314412471698281
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,85.0,88.4496394701893
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,110.0,29.0660533946547
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,135.0,9.13032143043875
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,160.0,3.81659491225436
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,185.0,1.93984069978496
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,210.0,1.12887555036874
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,260.0,0.493669239295824
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,310.0,0.30971772962345
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,360.0,0.232737340345058
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,410.0,0.162228094479765
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,460.0,0.109725120641861
+DePhillips,cex,CM Sepharose FF,cytochrome c,7.0,510.0,0.056615593845035
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,95.0,179.380859963614
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,110.0,40.4749295704954
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,135.0,17.4359695428246
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,160.0,8.72983633486105
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,185.0,4.64190343591886
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,210.0,2.82596059459471
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,260.0,1.25454458931467
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,310.0,0.76375857932156
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,460.0,0.291713213676803
+DePhillips,cex,CM Spherodex M,cytochrome c,7.0,510.0,0.172332068834837
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,60.0,54.7441731916521
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,85.0,17.721394799292
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,135.0,2.00206374408876
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,185.0,0.509492623889216
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,210.0,0.314874797313089
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,260.0,0.177806609598998
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,310.0,0.120264624865655
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,360.0,0.069987084300354
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,410.0,0.050272201135901
+DePhillips,cex,CM Toyopearl 650m,cytochrome c,7.0,460.0,0.032503333275674
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,85.0,60.384581988946
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,110.0,25.2415525733077
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,135.0,9.78692058406696
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,160.0,4.41058366058428
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,185.0,2.24174424881634
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,210.0,1.30456602593659
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,260.0,0.587903525104039
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,310.0,0.337020302640882
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,360.0,0.253259686097282
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,410.0,0.184674131069856
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,460.0,0.151881914984882
+DePhillips,cex,Fractogel EMD COO- (M),cytochrome c,7.0,510.0,0.08706549314789
+DePhillips,cex,SP-550 C,cytochrome c,7.0,135.0,87.0083580176251
+DePhillips,cex,SP-550 C,cytochrome c,7.0,160.0,22.818178487169
+DePhillips,cex,SP-550 C,cytochrome c,7.0,185.0,10.9207124737999
+DePhillips,cex,SP-550 C,cytochrome c,7.0,210.0,5.80685488367986
+DePhillips,cex,SP-550 C,cytochrome c,7.0,235.0,3.32882506520631
+DePhillips,cex,SP-550 C,cytochrome c,7.0,260.0,2.05726848348933
+DePhillips,cex,SP-550 C,cytochrome c,7.0,310.0,1.04566115042726
+DePhillips,cex,SP-550 C,cytochrome c,7.0,410.0,0.399384285645705
+DePhillips,cex,SP-550 C,cytochrome c,7.0,460.0,0.286880462862736
+DePhillips,cex,SP-550 C,cytochrome c,7.0,510.0,0.215581243630532
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,145.0,143.370566080324
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,160.0,32.6738266063143
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,185.0,14.143926798637
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,210.0,7.10984282454192
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,260.0,2.38660199872553
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,310.0,1.31162594871142
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,360.0,1.04722499659586
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,410.0,0.467143166231287
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,460.0,0.214723708862171
+DePhillips,cex,Cellufine sulfate,cytochrome c,7.0,510.0,0.118080993901047
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,160.0,83.5788688749046
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,210.0,19.475404617782
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,260.0,4.33826911749807
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,310.0,2.04751215806986
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,360.0,0.966354535391679
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,410.0,0.653998104002569
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,508.96,0.404460849113334
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,610.0,0.304065039605457
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,710.0,0.246408956332876
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,810.0,0.152393516042626
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,910.0,0.095672360485825
+DePhillips,cex,SP Sepharose FF,lysozyme,7.0,1010.0,0.077532982277697
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,310.0,51.6737544740009
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,360.0,18.3345399593439
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,410.0,6.60374078001848
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,460.0,3.35977363184182
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,508.96,1.95672600724946
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,610.0,0.843936979876714
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,710.0,0.416667874619602
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,810.0,0.250063334103146
+DePhillips,cex,SP Spherodex M,lysozyme,7.0,1010.0,0.114530199533639
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,160.0,70.7966190519282
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,210.0,9.04758179620722
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,260.0,3.51287355790092
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,310.0,1.24641457302783
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,360.0,0.553965244429774
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,410.0,0.294830574101104
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,508.96,0.100002882443203
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,610.0,0.046494600251369
+DePhillips,cex,SP Toyopearl 650m,lysozyme,7.0,710.0,0.017256889495675
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,210.0,86.0616691182628
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,260.0,21.945211194509
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,310.0,9.7534837497104
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,360.0,4.14400017167097
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,410.0,1.98545370359829
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,508.96,0.725938391342273
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,610.0,0.317840887506341
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,710.0,0.152278911830106
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,810.0,0.071870350811618
+DePhillips,cex,Fractogel EMD SO3-,lysozyme,7.0,910.0,0.047199757215253
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,160.0,26.6622052285663
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,210.0,4.3983123408637
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,260.0,1.56058010856971
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,310.0,0.653169755720814
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,360.0,0.327360342958716
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,410.0,0.2055209349867
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,508.96,0.08732047048237
+DePhillips,cex,CM Sepharose FF,lysozyme,7.0,610.0,0.047175451682564
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,160.0,43.1574823624452
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,210.0,9.32902166652852
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,260.0,3.41103441937378
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,310.0,1.60988962558654
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,360.0,0.782989794906863
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,410.0,0.597525029116952
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,460.0,0.498994894025873
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,508.96,0.313275261893038
+DePhillips,cex,CM Spherodex M,lysozyme,7.0,610.0,0.095654653250081
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,160.0,51.6627953311869
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,210.0,7.55784360780243
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,260.0,2.64166596581031
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,310.0,1.04118499568351
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,360.0,0.498847615871897
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,410.0,0.303912036642375
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,508.96,0.150047201862859
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,610.0,0.097072876937169
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,710.0,0.059139534386961
+DePhillips,cex,CM Toyopearl 650m,lysozyme,7.0,810.0,0.034963741522023
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,160.0,36.3342386384789
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,210.0,6.65834147408171
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,260.0,2.09500982609719
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,310.0,0.777599663985714
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,360.0,0.395618019273759
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,410.0,0.252130894302224
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,508.96,0.14249383147772
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,610.0,0.071416089207269
+DePhillips,cex,Fractogel EMD COO- (M),lysozyme,7.0,710.0,0.035259493082035
+DePhillips,cex,SP-550 C,lysozyme,7.0,310.0,294.49706637021
+DePhillips,cex,SP-550 C,lysozyme,7.0,360.0,45.0672411441049
+DePhillips,cex,SP-550 C,lysozyme,7.0,385.0,22.2505613928975
+DePhillips,cex,SP-550 C,lysozyme,7.0,410.0,9.45368163807934
+DePhillips,cex,SP-550 C,lysozyme,7.0,460.0,5.42376635749013
+DePhillips,cex,SP-550 C,lysozyme,7.0,508.96,2.84355067953329
+DePhillips,cex,SP-550 C,lysozyme,7.0,560.0,1.95353399407201
+DePhillips,cex,SP-550 C,lysozyme,7.0,610.0,1.36238851210576
+DePhillips,cex,SP-550 C,lysozyme,7.0,710.0,0.693140017419693
+DePhillips,cex,SP-550 C,lysozyme,7.0,810.0,0.455209139359001
+DePhillips,cex,SP-550 C,lysozyme,7.0,910.0,0.303473639366613
+DePhillips,cex,SP-550 C,lysozyme,7.0,1010.0,0.249655405014097
+Staby,aex,Express-Ion Q,anti-FVII mAb,8.0,125.288162774381,3.5945
+Staby,aex,Express-Ion Q,anti-FVII mAb,8.0,136.126652237242,1.0989
+Staby,aex,Express-Ion Q,anti-FVII mAb,8.0,151.34546114962,0.30333
+Staby,aex,Express-Ion Q,anti-FVII mAb,8.0,165.807232511482,0.038518
+Staby,aex,Fractogel EMD TMAE 650s,anti-FVII mAb,8.0,135.175322393144,11.52
+Staby,aex,Fractogel EMD TMAE 650s,anti-FVII mAb,8.0,145.070504265073,4.8836
+Staby,aex,Fractogel EMD TMAE 650s,anti-FVII mAb,8.0,154.676648466381,2.756
+Staby,aex,Fractogel EMD TMAE 650s,anti-FVII mAb,8.0,165.920026547204,1.3758
+Staby,aex,Fractogel EMD TMAE 650s,anti-FVII mAb,8.0,174.825174825175,0.9143
+Staby,aex,Fractogel EMD TMAE 650s,anti-FVII mAb,8.0,195.163840043717,0.42931
+Staby,aex,Macro-Prep 25Q,anti-FVII mAb,8.0,193.434822136681,8.479
+Staby,aex,Macro-Prep 25Q,anti-FVII mAb,8.0,213.656952397231,3.1154
+Staby,aex,Macro-Prep 25Q,anti-FVII mAb,8.0,234.477583942975,1.493
+Staby,aex,Macro-Prep 25Q,anti-FVII mAb,8.0,254.245906640903,0.8958
+Staby,aex,Macro-Prep 25Q,anti-FVII mAb,8.0,274.025155509276,0.6076
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,319.407180273413,3.9811
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,340.379182409204,2.7002
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,362.634174644619,1.9875
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,379.621896590995,1.7226
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,395.085140847853,1.6202
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,399.744163735209,1.4332
+Staby,aex,Poros QE/M,anti-FVII mAb,8.0,418.532624618089,1.1925
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,149.590868973358,15.024
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,174.079554356341,3.8217
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,183.668221724277,1.6202
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,193.644584729188,0.8777
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,204.227509445522,0.42931
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,215.568345944082,0.15774
+Staby,aex,Q HyperD 20,anti-FVII mAb,8.0,224.164985429276,0.028936
+Staby,aex,Q Sepharose FF,anti-FVII mAb,8.0,194.556314325181,8.139
+Staby,aex,Q Sepharose FF,anti-FVII mAb,8.0,202.724618877716,5.087
+Staby,aex,Q Sepharose FF,anti-FVII mAb,8.0,213.803130077824,2.4883
+Staby,aex,Q Sepharose FF,anti-FVII mAb,8.0,224.084614350379,1.4628
+Staby,aex,Q Sepharose FF,anti-FVII mAb,8.0,233.503012188857,0.8958
+Staby,aex,Q Sepharose FF,anti-FVII mAb,8.0,243.350448981578,0.5266
+Staby,aex,Q Zirconia,anti-FVII mAb,8.0,124.671179763374,18.811
+Staby,aex,Q Zirconia,anti-FVII mAb,8.0,135.455469014561,5.751
+Staby,aex,Q Zirconia,anti-FVII mAb,8.0,149.564020879137,2.3887
+Staby,aex,Q Zirconia,anti-FVII mAb,8.0,155.947851038613,1.1925
+Staby,aex,Q Zirconia,anti-FVII mAb,8.0,175.272548813405,0.38761
+Staby,aex,Q Zirconia,anti-FVII mAb,8.0,201.800056504016,0.07875
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,144.646628287095,13.022
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,155.226475427649,5.635
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,165.53550736633,2.9907
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,174.440916861459,1.9079
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,184.883892915249,1.1925
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,200.561572402728,0.6201
+Staby,aex,Source 30Q,anti-FVII mAb,8.0,223.743679241061,0.36457
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,95.430774516166,23.075
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,105.421845514828,8.139
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,115.791667631597,2.9302
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,126.371126724966,1.348
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,136.360537260517,0.6201
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,146.26939897904,0.30959
+Staby,aex,TSK-Gel Q-5PW-HR,anti-FVII mAb,8.0,156.843062831331,0.17471
+Staby,aex,Express-Ion Q,aprotinin,9.0,55.8846540739913,5.769
+Staby,aex,Express-Ion Q,aprotinin,9.0,80.7858850901571,0.7897
+Staby,aex,Express-Ion Q,aprotinin,9.0,106.081661663148,0.32157
+Staby,aex,Express-Ion Q,aprotinin,9.0,130.852372353511,0.12283
+Staby,aex,Express-Ion Q,aprotinin,9.0,180.854719403903,0.05675
+Staby,aex,Fractogel EMD TMAE 650s,aprotinin,9.0,51.0777403207682,51.18
+Staby,aex,Fractogel EMD TMAE 650s,aprotinin,9.0,55.9065242913848,14.716
+Staby,aex,Fractogel EMD TMAE 650s,aprotinin,9.0,60.8405733615634,3.1945
+Staby,aex,Fractogel EMD TMAE 650s,aprotinin,9.0,71.2890485763577,0.763
+Staby,aex,Fractogel EMD TMAE 650s,aprotinin,9.0,80.7767492205044,0.6151
+Staby,aex,Macro-Prep 25Q,aprotinin,9.0,51.4429754617007,1198.1
+Staby,aex,Macro-Prep 25Q,aprotinin,9.0,70.9818925192183,14.351
+Staby,aex,Macro-Prep 25Q,aprotinin,9.0,91.5692217531843,1.3468
+Staby,aex,Macro-Prep 25Q,aprotinin,9.0,110.417931872136,0.5825
+Staby,aex,Macro-Prep 25Q,aprotinin,9.0,131.662102380451,0.3442
+Staby,aex,Macro-Prep 25Q,aprotinin,9.0,150.879628232596,0.23746
+Staby,aex,Poros QE/M,aprotinin,9.0,71.3363437270386,3.2075
+Staby,aex,Poros QE/M,aprotinin,9.0,90.5223137503394,1.0166
+Staby,aex,Poros QE/M,aprotinin,9.0,111.039552288525,0.4984
+Staby,aex,Poros QE/M,aprotinin,9.0,130.908900496145,0.31335
+Staby,aex,Q HyperD 20,aprotinin,9.0,41.1404122269305,22.606
+Staby,aex,Q HyperD 20,aprotinin,9.0,51.0126001122277,3.385
+Staby,aex,Q HyperD 20,aprotinin,9.0,60.4536441456691,0.7138
+Staby,aex,Q HyperD 20,aprotinin,9.0,70.8446094336682,0.22578
+Staby,aex,Q Sepharose FF,aprotinin,9.0,50.9943906170321,1.5511
+Staby,aex,Q Sepharose FF,aprotinin,9.0,70.8702153745845,0.4928
+Staby,aex,Q Sepharose FF,aprotinin,9.0,80.7187194782342,0.13324
+Staby,aex,Q Sepharose FF,aprotinin,9.0,90.9115703155541,0.05078
+Staby,aex,Q Zirconia,aprotinin,9.0,40.854679903583,1.449
+Staby,aex,Q Zirconia,aprotinin,9.0,50.6868062243398,0.7331
+Staby,aex,Q Zirconia,aprotinin,9.0,60.4393943972682,0.4332
+Staby,aex,Q Zirconia,aprotinin,9.0,70.4503184354393,0.28089
+Staby,aex,Q Zirconia,aprotinin,9.0,81.1912378416121,0.18209
+Staby,aex,Q Zirconia,aprotinin,9.0,90.4371732957115,0.13363
+Staby,aex,Q Zirconia,aprotinin,9.0,101.307884792673,0.09214
+Staby,aex,Source 30Q,aprotinin,9.0,50.6559951370245,0.18563
+Staby,aex,Source 30Q,aprotinin,9.0,60.7511269334046,0.13648
+Staby,aex,Source 30Q,aprotinin,9.0,70.8160129168408,0.0942
+Staby,aex,Source 30Q,aprotinin,9.0,80.242653785046,0.08085
+Staby,aex,Source 30Q,aprotinin,9.0,110.837711422935,0.010066
+Staby,aex,TSK-Gel Q-5PW-HR,aprotinin,9.0,60.8061681777,0.9455
+Staby,aex,TSK-Gel Q-5PW-HR,aprotinin,9.0,70.8787548020356,0.6326
+Staby,aex,TSK-Gel Q-5PW-HR,aprotinin,9.0,81.2261905728883,0.4645
+Staby,aex,TSK-Gel Q-5PW-HR,aprotinin,9.0,91.5273163275579,0.496
+Staby,aex,TSK-Gel Q-5PW-HR,aprotinin,9.0,106.675769665678,0.25848
+Staby,aex,TSK-Gel Q-5PW-HR,aprotinin,9.0,121.564289274383,0.21504
+Staby,aex,Express-Ion Q,lipolase,8.0,124.696053369911,13.217
+Staby,aex,Express-Ion Q,lipolase,8.0,150.825012820126,3.536
+Staby,aex,Express-Ion Q,lipolase,8.0,176.233191759336,1.1825
+Staby,aex,Express-Ion Q,lipolase,8.0,200.004000080002,0.5582
+Staby,aex,Express-Ion Q,lipolase,8.0,225.922327903667,0.16871
+Staby,aex,Express-Ion Q,lipolase,8.0,251.965329570651,0.09559
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,115.440115440115,4.7031
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,125.846316478317,2.7753
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,135.60425254936,1.8496
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,155.61053794563,0.986
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,175.450908835708,0.6841
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,195.52253397204,0.5471
+Staby,aex,Fractogel EMD TMAE 650s,lipolase,8.0,214.224507283633,0.42873
+Staby,aex,Macro-Prep 25Q,lipolase,8.0,173.659349819394,5.299
+Staby,aex,Macro-Prep 25Q,lipolase,8.0,194.779898714453,3.0024
+Staby,aex,Macro-Prep 25Q,lipolase,8.0,213.583938487826,1.6337
+Staby,aex,Macro-Prep 25Q,lipolase,8.0,234.142686553186,1.0039
+Staby,aex,Macro-Prep 25Q,lipolase,8.0,253.74914359664,0.6556
+Staby,aex,Macro-Prep 25Q,lipolase,8.0,273.410799726589,0.44587
+Staby,aex,Poros QE/M,lipolase,8.0,272.064424855806,4.0618
+Staby,aex,Poros QE/M,lipolase,8.0,296.489563567362,2.7622
+Staby,aex,Poros QE/M,lipolase,8.0,323.060024552562,2.0371
+Staby,aex,Poros QE/M,lipolase,8.0,344.091941366733,1.5333
+Staby,aex,Poros QE/M,lipolase,8.0,370.658660439601,1.1776
+Staby,aex,Poros QE/M,lipolase,8.0,396.967170814974,0.9419
+Staby,aex,Poros QE/M,lipolase,8.0,420.344682639765,0.7689
+Staby,aex,Q HyperD 20,lipolase,8.0,143.953243986353,6.114
+Staby,aex,Q HyperD 20,lipolase,8.0,149.062397519602,4.2439
+Staby,aex,Q HyperD 20,lipolase,8.0,153.435419032129,3.327
+Staby,aex,Q HyperD 20,lipolase,8.0,165.379463178263,1.9634
+Staby,aex,Q HyperD 20,lipolase,8.0,184.644927803833,0.6839
+Staby,aex,Q Sepharose FF,lipolase,8.0,145.715243271599,4.2444
+Staby,aex,Q Sepharose FF,lipolase,8.0,157.052439809652,2.556
+Staby,aex,Q Sepharose FF,lipolase,8.0,166.538986776804,1.0907
+Staby,aex,Q Sepharose FF,lipolase,8.0,175.497095523069,0.6058
+Staby,aex,Q Sepharose FF,lipolase,8.0,197.565987039671,0.06645
+Staby,aex,Q Zirconia,lipolase,8.0,135.230161735273,6.369
+Staby,aex,Q Zirconia,lipolase,8.0,145.721613429704,4.1592
+Staby,aex,Q Zirconia,lipolase,8.0,155.313266859255,2.3098
+Staby,aex,Q Zirconia,lipolase,8.0,165.439655885516,1.6695
+Staby,aex,Q Zirconia,lipolase,8.0,185.61140396466,0.8376
+Staby,aex,Source 30Q,lipolase,8.0,115.198083103897,11.949
+Staby,aex,Source 30Q,lipolase,8.0,124.946897568533,5.418
+Staby,aex,Source 30Q,lipolase,8.0,136.202669572324,3.2624
+Staby,aex,Source 30Q,lipolase,8.0,149.360736049707,1.7395
+Staby,aex,Source 30Q,lipolase,8.0,156.355051049924,1.4788
+Staby,aex,Source 30Q,lipolase,8.0,175.355533343855,0.8725
+Staby,aex,TSK-Gel Q-5PW-HR,lipolase,8.0,116.160208159093,3.6875
+Staby,aex,TSK-Gel Q-5PW-HR,lipolase,8.0,136.494547042846,1.2584
+Staby,aex,TSK-Gel Q-5PW-HR,lipolase,8.0,155.787505842031,0.594
+Staby,aex,TSK-Gel Q-5PW-HR,lipolase,8.0,174.727425216662,0.34343
+Staby,aex,TSK-Gel Q-5PW-HR,lipolase,8.0,200.521355524363,0.1758
+Staby,aex,Express-Ion Q,myoglobin,9.0,54.8636637954683,0.7856
+Staby,aex,Express-Ion Q,myoglobin,9.0,80.0275294701377,0.27072
+Staby,aex,Express-Ion Q,myoglobin,9.0,104.716427913211,0.12428
+Staby,aex,Express-Ion Q,myoglobin,9.0,128.754812211106,0.05046
+Staby,aex,Fractogel EMD TMAE 650s,myoglobin,9.0,29.9195165006134,4.3024
+Staby,aex,Fractogel EMD TMAE 650s,myoglobin,9.0,34.9308369428531,2.3269
+Staby,aex,Fractogel EMD TMAE 650s,myoglobin,9.0,39.8581051456814,1.3383
+Staby,aex,Fractogel EMD TMAE 650s,myoglobin,9.0,44.9539222297145,0.8884
+Staby,aex,Fractogel EMD TMAE 650s,myoglobin,9.0,49.825610363727,0.6806
+Staby,aex,Fractogel EMD TMAE 650s,myoglobin,9.0,54.9178977428744,0.5006
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,30.0507858280494,7.794
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,34.9052322943209,3.2295
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,39.8453998485875,1.5446
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,44.966050631773,0.7856
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,49.5712090417885,0.5323
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,54.9601538884309,0.35334
+Staby,aex,Macro-Prep 25Q,myoglobin,9.0,59.96318260588,0.1557
+Staby,aex,Poros QE/M,myoglobin,9.0,30.0201134760289,0.9642
+Staby,aex,Poros QE/M,myoglobin,9.0,34.8043992760685,0.9255
+Staby,aex,Poros QE/M,myoglobin,9.0,40.1364639775236,0.7697
+Staby,aex,Q HyperD 20,myoglobin,9.0,40.230116265036,3.4342
+Staby,aex,Q HyperD 20,myoglobin,9.0,49.800796812749,0.8527
+Staby,aex,Q HyperD 20,myoglobin,9.0,59.5628089820716,0.24436
+Staby,aex,Q Sepharose FF,myoglobin,9.0,30.0327356818933,10.172
+Staby,aex,Q Sepharose FF,myoglobin,9.0,34.8942703608067,3.7275
+Staby,aex,Q Sepharose FF,myoglobin,9.0,40.2868423172992,1.8197
+Staby,aex,Q Sepharose FF,myoglobin,9.0,44.6807559983915,1.0682
+Staby,aex,Q Sepharose FF,myoglobin,9.0,49.8156819766863,0.7388
+Staby,aex,Q Zirconia,myoglobin,9.0,77.3179934434342,3.9638
+Staby,aex,Q Zirconia,myoglobin,9.0,86.8455105213336,1.2845
+Staby,aex,Q Zirconia,myoglobin,9.0,91.9971664872722,0.9067
+Staby,aex,Q Zirconia,myoglobin,9.0,96.3604652283261,0.6144
+Staby,aex,Q Zirconia,myoglobin,9.0,102.053312650529,0.48046
+Staby,aex,Q Zirconia,myoglobin,9.0,106.854730993215,0.38352
+Staby,aex,Q Zirconia,myoglobin,9.0,116.465957000769,0.25985
+Staby,aex,Source 30Q,myoglobin,9.0,29.7636764093101,3.5053
+Staby,aex,Source 30Q,myoglobin,9.0,40.102662816811,1.1129
+Staby,aex,Source 30Q,myoglobin,9.0,50.1202886928629,0.6144
+Staby,aex,Source 30Q,myoglobin,9.0,59.8254293970195,0.43368
+Staby,aex,Source 30Q,myoglobin,9.0,69.4073308022793,0.30613
+Staby,aex,TSK-Gel Q-5PW-HR,myoglobin,9.0,40.0528697881203,1.9351
+Staby,aex,TSK-Gel Q-5PW-HR,myoglobin,9.0,50.0876533934385,0.8354
+Staby,aex,TSK-Gel Q-5PW-HR,myoglobin,9.0,60.1496523350095,0.4904
+Staby,aex,TSK-Gel Q-5PW-HR,myoglobin,9.0,70.194649763795,0.31894
+Staby,aex,TSK-Gel Q-5PW-HR,myoglobin,9.0,79.6064258306931,0.22514
+Staby,aex,TSK-Gel Q-5PW-HR,myoglobin,9.0,89.7609665460878,0.16557
+Staby,aex,Poros 50 HQ,anti-FVII mAb,8.0,178.16737042778,8.226
+Staby,aex,Poros 50 HQ,anti-FVII mAb,8.0,187.617260787992,3.9786
+Staby,aex,Poros 50 HQ,anti-FVII mAb,8.0,202.077355211575,1.8478
+Staby,aex,Poros 50 HQ,anti-FVII mAb,8.0,226.485176545195,0.6339
+Staby,aex,Poros 50 HQ,anti-FVII mAb,8.0,252.327723246953,0.28267
+Staby,aex,Poros 50 HQ,anti-FVII mAb,8.0,277.816363383803,0.18491
+Staby,aex,Q Sepharose HP,anti-FVII mAb,8.0,186.153874792904,17.69
+Staby,aex,Q Sepharose HP,anti-FVII mAb,8.0,196.07074232383,7.43
+Staby,aex,Q Sepharose HP,anti-FVII mAb,8.0,206.394088873295,4.5769
+Staby,aex,Q Sepharose HP,anti-FVII mAb,8.0,217.263779955244,2.8196
+Staby,aex,Q Sepharose HP,anti-FVII mAb,8.0,228.691655041508,1.8085
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,177.942275525819,19.185
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,198.333994446648,6.322
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,217.396030348486,1.8839
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,238.237045860631,0.6465
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,258.051197357556,0.29423
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,277.885844495081,0.15422
+Staby,aex,Q Sepharose XL,anti-FVII mAb,8.0,297.539349578982,0.08763
+Staby,aex,Q-Cellthru Bigbeads Plus,anti-FVII mAb,8.0,78.0244216439746,0.09835
+Staby,aex,Q-Cellthru Bigbeads Plus,anti-FVII mAb,8.0,83.1193011329161,0.038102
+Staby,aex,Separon HemaBio 1000Q,anti-FVII mAb,8.0,115.462774801404,13.961
+Staby,aex,Separon HemaBio 1000Q,anti-FVII mAb,8.0,127.186009538951,6.614
+Staby,aex,Separon HemaBio 1000Q,anti-FVII mAb,8.0,137.003192174378,2.8338
+Staby,aex,Separon HemaBio 1000Q,anti-FVII mAb,8.0,147.60365466649,1.0758
+Staby,aex,Separon HemaBio 1000Q,anti-FVII mAb,8.0,168.239707935867,0.38419
+Staby,aex,Toyopearl QAE 550c,anti-FVII mAb,8.0,230.011960621952,1.6682
+Staby,aex,Toyopearl QAE 550c,anti-FVII mAb,8.0,251.997076833909,0.6864
+Staby,aex,Toyopearl QAE 550c,anti-FVII mAb,8.0,277.592715967133,0.31869
+Staby,aex,Toyopearl QAE 550c,anti-FVII mAb,8.0,302.379728463004,0.14214
+Staby,aex,Toyopearl QAE 550c,anti-FVII mAb,8.0,327.460868426223,0.0745
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,97.4972457028089,18.548
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,102.20559677848,4.2549
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,108.234479175686,2.0578
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,113.315731623021,1.1233
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,118.622554892587,0.6647
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,128.529748210223,0.24235
+Staby,aex,Toyopearl SuperQ 650c,anti-FVII mAb,8.0,137.061403508772,0.047304
+Staby,aex,UNO Q-1,anti-FVII mAb,8.0,135.917579579743,13.658
+Staby,aex,UNO Q-1,anti-FVII mAb,8.0,147.099924979038,10.932
+Staby,aex,UNO Q-1,anti-FVII mAb,8.0,167.830290010741,2.007
+Staby,aex,UNO Q-1,anti-FVII mAb,8.0,175.641971405487,1.4239
+Staby,aex,UNO Q-1,anti-FVII mAb,8.0,202.466036322407,0.49831
+Staby,aex,UNO Q-1,anti-FVII mAb,8.0,222.950527277997,0.2947
+Staby,aex,Poros 50 HQ,aprotinin,9.0,30.6965036682322,0.5893
+Staby,aex,Poros 50 HQ,aprotinin,9.0,40.5071495118888,0.38619
+Staby,aex,Poros 50 HQ,aprotinin,9.0,60.8865075499269,0.20279
+Staby,aex,Poros 50 HQ,aprotinin,9.0,81.2757034412133,0.12011
+Staby,aex,Q Sepharose HP,aprotinin,9.0,40.6934158053227,0.6156
+Staby,aex,Q Sepharose HP,aprotinin,9.0,50.4872014944212,0.34279
+Staby,aex,Q Sepharose HP,aprotinin,9.0,60.8757586641424,0.21992
+Staby,aex,Q Sepharose HP,aprotinin,9.0,70.9889470209488,0.11752
+Staby,aex,Q Sepharose HP,aprotinin,9.0,91.1577028258888,0.0503
+Staby,aex,Q Sepharose HP,aprotinin,9.0,111.28298149364,0.019843
+Staby,aex,Q Sepharose XL,aprotinin,9.0,61.5218033270991,3.8327
+Staby,aex,Q Sepharose XL,aprotinin,9.0,70.9793733940917,1.5735
+Staby,aex,Q Sepharose XL,aprotinin,9.0,80.9277557924041,0.8238
+Staby,aex,Q Sepharose XL,aprotinin,9.0,90.6815626246872,0.5281
+Staby,aex,Q Sepharose XL,aprotinin,9.0,101.063184703076,0.30586
+Staby,aex,Q Sepharose XL,aprotinin,9.0,110.089723124346,0.20002
+Staby,aex,Q Sepharose XL,aprotinin,9.0,120.601075761596,0.13081
+Staby,aex,Q-Cellthru Bigbeads Plus,aprotinin,9.0,50.8414255935737,2.3514
+Staby,aex,Q-Cellthru Bigbeads Plus,aprotinin,9.0,60.9388235150732,1.7384
+Staby,aex,Q-Cellthru Bigbeads Plus,aprotinin,9.0,80.9133498935989,0.8933
+Staby,aex,Separon HemaBio 1000Q,aprotinin,9.0,90.9314104371073,24.345
+Staby,aex,Separon HemaBio 1000Q,aprotinin,9.0,100.412696181305,5.55
+Staby,aex,Separon HemaBio 1000Q,aprotinin,9.0,109.990430832518,3.7798
+Staby,aex,Separon HemaBio 1000Q,aprotinin,9.0,121.250333438417,1.8614
+Staby,aex,Separon HemaBio 1000Q,aprotinin,9.0,128.320287437444,1.6493
+Staby,aex,Separon HemaBio 1000Q,aprotinin,9.0,150.58653455208,0.6503
+Staby,aex,Toyopearl QAE 550c,aprotinin,9.0,50.5714574694043,2.0402
+Staby,aex,Toyopearl QAE 550c,aprotinin,9.0,70.7203575621278,0.6449
+Staby,aex,Toyopearl QAE 550c,aprotinin,9.0,90.8620078686499,0.21646
+Staby,aex,Toyopearl QAE 550c,aprotinin,9.0,111.640784611434,0.05929
+Staby,aex,UNO Q-1,aprotinin,9.0,35.785857429144,0.35563
+Staby,aex,UNO Q-1,aprotinin,9.0,40.763084950269,0.28496
+Staby,aex,UNO Q-1,aprotinin,9.0,50.8259212198221,0.21508
+Staby,aex,UNO Q-1,aprotinin,9.0,56.0067208064968,0.12711
+Staby,aex,UNO Q-1,aprotinin,9.0,81.9940964250574,0.029068
+Staby,aex,Poros 50 HQ,lipolase,8.0,152.804730834467,5.064
+Staby,aex,Poros 50 HQ,lipolase,8.0,203.467079026613,0.8657
+Staby,aex,Poros 50 HQ,lipolase,8.0,228.869612981484,0.50339
+Staby,aex,Poros 50 HQ,lipolase,8.0,278.489473097917,0.18082
+Staby,aex,Poros 50 HQ,lipolase,8.0,329.435018942514,0.08602
+Staby,aex,Q Sepharose HP,lipolase,8.0,147.714851251145,7.123
+Staby,aex,Q Sepharose HP,lipolase,8.0,157.124002262586,4.8641
+Staby,aex,Q Sepharose HP,lipolase,8.0,168.098303888114,2.9451
+Staby,aex,Q Sepharose HP,lipolase,8.0,177.81255000978,2.0113
+Staby,aex,Q Sepharose HP,lipolase,8.0,189.12171873818,1.4883
+Staby,aex,Q Sepharose HP,lipolase,8.0,198.913929942514,1.1236
+Staby,aex,Q Sepharose XL,lipolase,8.0,177.578889421626,4.9593
+Staby,aex,Q Sepharose XL,lipolase,8.0,198.574236978494,3.5958
+Staby,aex,Q Sepharose XL,lipolase,8.0,218.474176352355,1.9301
+Staby,aex,Q Sepharose XL,lipolase,8.0,239.017161432191,1.0784
+Staby,aex,Q-Cellthru Bigbeads Plus,lipolase,8.0,78.2803375448155,0.25603
+Staby,aex,Q-Cellthru Bigbeads Plus,lipolase,8.0,83.7317569434559,0.17485
+Staby,aex,Q-Cellthru Bigbeads Plus,lipolase,8.0,88.559055606231,0.132
+Staby,aex,Q-Cellthru Bigbeads Plus,lipolase,8.0,98.509550500921,0.07832
+Staby,aex,Q-Cellthru Bigbeads Plus,lipolase,8.0,128.2084156004,0.019998
+Staby,aex,Separon HemaBio 1000Q,lipolase,8.0,118.354400416607,3.679
+Staby,aex,Separon HemaBio 1000Q,lipolase,8.0,128.789635010174,1.8226
+Staby,aex,Separon HemaBio 1000Q,lipolase,8.0,138.534855369611,1.1957
+Staby,aex,Separon HemaBio 1000Q,lipolase,8.0,148.183273072136,0.8165
+Staby,aex,Toyopearl QAE 550c,lipolase,8.0,158.853711616972,5.486
+Staby,aex,Toyopearl QAE 550c,lipolase,8.0,177.610429284408,4.3971
+Staby,aex,Toyopearl QAE 550c,lipolase,8.0,198.807157057654,1.6121
+Staby,aex,Toyopearl QAE 550c,lipolase,8.0,217.381852962915,1.3185
+Staby,aex,Toyopearl QAE 550c,lipolase,8.0,239.102885971834,0.8477
+Staby,aex,Toyopearl QAE 550c,lipolase,8.0,258.671978064616,0.50305
+Staby,aex,Toyopearl SuperQ 650c,lipolase,8.0,118.22986249867,7.573
+Staby,aex,Toyopearl SuperQ 650c,lipolase,8.0,128.648801636413,3.8279
+Staby,aex,Toyopearl SuperQ 650c,lipolase,8.0,137.579968356607,3.008
+Staby,aex,Toyopearl SuperQ 650c,lipolase,8.0,147.193028938149,1.7851
+Staby,aex,Toyopearl SuperQ 650c,lipolase,8.0,159.2001783042,1.2437
+Staby,aex,UNO Q-1,lipolase,8.0,118.119536971415,14.388
+Staby,aex,UNO Q-1,lipolase,8.0,128.569408195014,5.833
+Staby,aex,UNO Q-1,lipolase,8.0,138.324065620937,3.3925
+Staby,aex,UNO Q-1,lipolase,8.0,148.813952796214,2.0132
+Staby,aex,UNO Q-1,lipolase,8.0,158.285451984108,1.4311
+Staby,aex,UNO Q-1,lipolase,8.0,178.075361492984,0.7379
+Staby,aex,UNO Q-1,lipolase,8.0,203.628662770572,0.50371
+Staby,aex,Poros 50 HQ,myoglobin,9.0,29.6392898426154,10.975
+Staby,aex,Poros 50 HQ,myoglobin,9.0,34.3808017602971,4.8335
+Staby,aex,Poros 50 HQ,myoglobin,9.0,39.633783837343,2.5999
+Staby,aex,Poros 50 HQ,myoglobin,9.0,44.1520596935847,1.7082
+Staby,aex,Poros 50 HQ,myoglobin,9.0,49.4437577255871,1.2404
+Staby,aex,Poros 50 HQ,myoglobin,9.0,54.1301288297066,0.9757
+Staby,aex,Q Sepharose HP,myoglobin,9.0,29.4889563858335,9.167
+Staby,aex,Q Sepharose HP,myoglobin,9.0,34.3926262209382,4.2868
+Staby,aex,Q Sepharose HP,myoglobin,9.0,39.6479264134486,2.3059
+Staby,aex,Q Sepharose HP,myoglobin,9.0,44.4187802602941,1.485
+Staby,aex,Q Sepharose HP,myoglobin,9.0,49.468216670789,1.0569
+Staby,aex,Q Sepharose XL,myoglobin,9.0,34.4684957948435,13.677
+Staby,aex,Q Sepharose XL,myoglobin,9.0,39.2757550763914,8.462
+Staby,aex,Q Sepharose XL,myoglobin,9.0,44.4899230324331,5.787
+Staby,aex,Q Sepharose XL,myoglobin,9.0,49.5441934205311,4.2019
+Staby,aex,Q Sepharose XL,myoglobin,9.0,54.2475859824238,3.1757
+Staby,aex,Q Sepharose XL,myoglobin,9.0,59.3834807033379,2.5485
+Staby,aex,Q Sepharose XL,myoglobin,9.0,69.1778215903981,1.7779
+Staby,aex,Q-Cellthru Bigbeads Plus,myoglobin,9.0,29.792051480665,0.28801
+Staby,aex,Q-Cellthru Bigbeads Plus,myoglobin,9.0,34.7089653257436,0.19305
+Staby,aex,Q-Cellthru Bigbeads Plus,myoglobin,9.0,39.5147587623978,0.16124
+Staby,aex,Q-Cellthru Bigbeads Plus,myoglobin,9.0,49.5712090417885,0.07848
+Staby,aex,Q-Cellthru Bigbeads Plus,myoglobin,9.0,79.2273746424865,0.029451
+Staby,aex,Separon HemaBio 1000Q,myoglobin,9.0,32.0872773945131,1.2654
+Staby,aex,Separon HemaBio 1000Q,myoglobin,9.0,34.7499739375195,0.8653
+Staby,aex,Separon HemaBio 1000Q,myoglobin,9.0,39.1358797745773,0.6283
+Staby,aex,Toyopearl QAE 550c,myoglobin,9.0,49.4878012569902,0.9188
+Staby,aex,Toyopearl QAE 550c,myoglobin,9.0,59.6438071835001,0.58
+Staby,aex,Toyopearl QAE 550c,myoglobin,9.0,69.1042022265374,0.38108
+Staby,aex,Toyopearl QAE 550c,myoglobin,9.0,79.1521224641639,0.27123
+Staby,aex,Toyopearl QAE 550c,myoglobin,9.0,89.1416550039668,0.19695
+Staby,aex,Toyopearl SuperQ 650c,myoglobin,9.0,29.4455404728954,15.115
+Staby,aex,Toyopearl SuperQ 650c,myoglobin,9.0,34.5542501727712,5.904
+Staby,aex,Toyopearl SuperQ 650c,myoglobin,9.0,39.3824826717076,3.3721
+Staby,aex,Toyopearl SuperQ 650c,myoglobin,9.0,44.6149727848666,2.2155
+Staby,aex,Toyopearl SuperQ 650c,myoglobin,9.0,49.4071146245059,1.6087
+Staby,aex,UNO Q-1,myoglobin,9.0,29.4767870302137,1.5769
+Staby,aex,UNO Q-1,myoglobin,9.0,39.3313667649951,0.783
+Staby,aex,UNO Q-1,myoglobin,9.0,49.5859572569048,0.47487
+Staby,aex,UNO Q-1,myoglobin,9.0,59.7250259803863,0.36614
+Staby,aex,UNO Q-1,myoglobin,9.0,69.1534237860116,0.29976
+Staby,aex,UNO Q-1,myoglobin,9.0,79.1853412096353,0.23579
+Staby,cex,SP Sepharose BB,anti-FVII mAb,5.5,118.372276523686,0.3957
+Staby,cex,SP Sepharose BB,anti-FVII mAb,5.5,143.363963773784,0.17368
+Staby,cex,Source 30S,anti-FVII mAb,5.5,68.5314624991975,2.4779
+Staby,cex,Source 30S,anti-FVII mAb,5.5,93.9550223076158,0.4654
+Staby,cex,Source 30S,anti-FVII mAb,5.5,117.706379078057,0.2591
+Staby,cex,Source 30S,anti-FVII mAb,5.5,143.363963773784,0.07252
+Staby,cex,TSKGel SP-5PW-HR20,anti-FVII mAb,5.5,117.706379078057,0.3957
+Staby,cex,TSKGel SP-5PW-HR20,anti-FVII mAb,5.5,142.560759360219,0.15216
+Staby,cex,TSKGel SP-5PW-HR20,anti-FVII mAb,5.5,167.864940167877,0.07832
+Staby,cex,SP-550 C,anti-FVII mAb,5.5,147.461959301181,2.7225
+Staby,cex,SP-550 C,anti-FVII mAb,5.5,157.775657975871,1.331
+Staby,cex,SP-550 C,anti-FVII mAb,5.5,167.864940167877,0.8042
+Staby,cex,SP-550 C,anti-FVII mAb,5.5,194.347966104091,0.28583
+Staby,cex,SP-550 C,anti-FVII mAb,5.5,218.761050395004,0.10716
+Staby,cex,SP Sepharose BB,aprotinin,5.5,293.677043907954,8.417
+Staby,cex,SP Sepharose BB,aprotinin,5.5,317.855697149982,5.662
+Staby,cex,SP Sepharose BB,aprotinin,5.5,345.995141159807,3.4272
+Staby,cex,SP Sepharose BB,aprotinin,5.5,370.279782537947,2.3673
+Staby,cex,SP Sepharose BB,aprotinin,5.5,394.030645377374,1.77
+Staby,cex,SP Sepharose XL,aprotinin,5.5,292.112404768286,5.235
+Staby,cex,SP Sepharose XL,aprotinin,5.5,307.368954577586,3.713
+Staby,cex,SP Sepharose XL,aprotinin,5.5,317.965499579595,3.2531
+Staby,cex,SP Sepharose XL,aprotinin,5.5,342.152722487728,2.8494
+Staby,cex,SP Sepharose XL,aprotinin,5.5,366.19296775291,1.8184
+Staby,cex,SP Sepharose XL,aprotinin,5.5,416.984584652607,1.1002
+Staby,cex,Source 30S,aprotinin,5.5,269.811216466787,12.513
+Staby,cex,Source 30S,aprotinin,5.5,293.704093808967,7.185
+Staby,cex,Source 30S,aprotinin,5.5,319.698059350197,4.465
+Staby,cex,Source 30S,aprotinin,5.5,344.072529301862,3.084
+Staby,cex,Source 30S,aprotinin,5.5,368.230705491099,2.0748
+Staby,cex,TSKGel SP-5PW-HR20,aprotinin,5.5,295.372459984599,6.815
+Staby,cex,TSKGel SP-5PW-HR20,aprotinin,5.5,319.69069811509,4.707
+Staby,cex,TSKGel SP-5PW-HR20,aprotinin,5.5,342.136966135368,3.0842
+Staby,cex,TSKGel SP-5PW-HR20,aprotinin,5.5,368.222226763382,2.1303
+Staby,cex,TSKGel SP-5PW-HR20,aprotinin,5.5,389.636828777052,1.5928
+Staby,cex,SP-550 C,aprotinin,5.5,418.754994581381,10.93
+Staby,cex,SP-550 C,aprotinin,5.5,443.149230993159,6.976
+Staby,cex,SP-550 C,aprotinin,5.5,468.942937967854,4.819
+Staby,cex,SP-550 C,aprotinin,5.5,490.625368183319,3.7987
+Staby,cex,SP-550 C,aprotinin,5.5,516.249923132747,2.7665
+Staby,cex,Toyopearl SP 650c,aprotinin,5.5,197.974839704573,7.597
+Staby,cex,Toyopearl SP 650c,aprotinin,5.5,208.285961772672,6.655
+Staby,cex,Toyopearl SP 650c,aprotinin,5.5,219.17448764723,4.598
+Staby,cex,Toyopearl SP 650c,aprotinin,5.5,245.380473406656,3.0115
+Staby,cex,Toyopearl SP 650c,aprotinin,5.5,267.085308781712,1.973
+Staby,cex,Poros 50 HS,lysozyme,5.5,367.358421272672,42.87
+Staby,cex,Poros 50 HS,lysozyme,5.5,393.051990519758,11.415
+Staby,cex,Poros 50 HS,lysozyme,5.5,420.552287920684,6.548
+Staby,cex,Poros 50 HS,lysozyme,5.5,442.425346812721,4.066
+Staby,cex,Poros 50 HS,lysozyme,5.5,468.069130462762,2.8825
+Staby,cex,Poros 50 HS,lysozyme,5.5,492.413555520526,2.1544
+Staby,cex,SP Sepharose BB,lysozyme,5.5,294.889969130128,5.89
+Staby,cex,SP Sepharose BB,lysozyme,5.5,341.412957748195,1.938
+Staby,cex,SP Sepharose BB,lysozyme,5.5,365.291864461061,1.2358
+Staby,cex,SP Sepharose BB,lysozyme,5.5,395.275594019728,0.788
+Staby,cex,SP Sepharose XL,lysozyme,5.5,293.231080047715,8.309
+Staby,cex,SP Sepharose XL,lysozyme,5.5,319.095000624619,5.736
+Staby,cex,SP Sepharose XL,lysozyme,5.5,343.344424999588,3.857
+Staby,cex,SP Sepharose XL,lysozyme,5.5,369.436669166048,2.2122
+Staby,cex,SP Sepharose XL,lysozyme,5.5,395.275594019728,1.7433
+Staby,cex,Source 30S,lysozyme,5.5,243.478153795758,11.415
+Staby,cex,Source 30S,lysozyme,5.5,267.953849117141,6.723
+Staby,cex,Source 30S,lysozyme,5.5,293.231080047715,3.4692
+Staby,cex,Source 30S,lysozyme,5.5,317.299947322704,2.2715
+Staby,cex,Source 30S,lysozyme,5.5,341.412957748195,1.5272
+Staby,cex,TSKGel SP-5PW-HR20,lysozyme,5.5,243.478153795758,16.103
+Staby,cex,TSKGel SP-5PW-HR20,lysozyme,5.5,267.953849117141,8.995
+Staby,cex,TSKGel SP-5PW-HR20,lysozyme,5.5,293.231080047715,5.025
+Staby,cex,TSKGel SP-5PW-HR20,lysozyme,5.5,319.095000624619,3.0392
+Staby,cex,TSKGel SP-5PW-HR20,lysozyme,5.5,341.412957748195,1.99
+Staby,cex,TSKGel SP-5PW-HR20,lysozyme,5.5,367.358421272672,1.303
+Staby,cex,SP-550 C,lysozyme,5.5,468.069130462762,10.544
+Staby,cex,SP-550 C,lysozyme,5.5,492.413555520526,7.089
+Staby,cex,SP-550 C,lysozyme,5.5,515.121883442651,4.52
+Staby,cex,SP-550 C,lysozyme,5.5,541.913537219704,3.1207
+Staby,cex,SP-550 C,lysozyme,5.5,566.90462483429,2.5929
+Staby,cex,Toyopearl SP 650c,lysozyme,5.5,243.478153795758,7.675
+Staby,cex,Toyopearl SP 650c,lysozyme,5.5,266.446487858967,4.175
+Staby,cex,Toyopearl SP 650c,lysozyme,5.5,293.231080047715,2.2715
+Staby,cex,Toyopearl SP 650c,lysozyme,5.5,315.514992005246,1.3379
+Staby,cex,Toyopearl SP 650c,lysozyme,5.5,341.412957748195,0.9237
+Staby,cex,Poros 50 HS,myoglobin,5.5,94.0415979445608,2.8148
+Staby,cex,Poros 50 HS,myoglobin,5.5,119.052905807694,1.4094
+Staby,cex,Poros 50 HS,myoglobin,5.5,144.098679161972,0.8277
+Staby,cex,Poros 50 HS,myoglobin,5.5,169.562573750423,0.4149
+Staby,cex,SP Sepharose BB,myoglobin,5.5,93.4135764759714,0.4779
+Staby,cex,SP Sepharose BB,myoglobin,5.5,118.907705818097,0.18857
+Staby,cex,Source 30S,myoglobin,5.5,58.6178654902503,2.0638
+Staby,cex,Source 30S,myoglobin,5.5,78.487410348873,0.7717
+Staby,cex,Source 30S,myoglobin,5.5,98.2539457282246,0.4075
+Staby,cex,Source 30S,myoglobin,5.5,118.266024964866,0.26603
+Staby,cex,TSKGel SP-5PW-HR20,myoglobin,5.5,68.9524973097574,0.6093
+Staby,cex,TSKGel SP-5PW-HR20,myoglobin,5.5,93.8858191873097,0.18431
+Staby,cex,SP-550 C,myoglobin,5.5,118.336848735243,0.7083
+Staby,cex,SP-550 C,myoglobin,5.5,143.231981472867,0.416
+Staby,cex,SP-550 C,myoglobin,5.5,168.55436352835,0.23801
+Staby,cex,SP-550 C,myoglobin,5.5,192.836837280553,0.11936
+Staby,cex,Toyopearl SP 650c,myoglobin,5.5,28.6906244006876,1.8769
+Staby,cex,Toyopearl SP 650c,myoglobin,5.5,38.4211181714029,0.8673
+Staby,cex,Toyopearl SP 650c,myoglobin,5.5,48.911389425855,0.3906
+Staby,cex,Toyopearl SP 650c,myoglobin,5.5,58.5409815600887,0.2419
+Staby,cex,Toyopearl SP 650c,myoglobin,5.5,78.8224627583629,0.08136
+Staby,cex,CM Ceramic HyperD F,anti-FVII mAb,5.5,117.684698758644,25.188
+Staby,cex,CM Ceramic HyperD F,anti-FVII mAb,5.5,143.641522600159,16.202
+Staby,cex,CM Ceramic HyperD F,anti-FVII mAb,5.5,168.356543213043,5.377
+Staby,cex,CM Ceramic HyperD F,anti-FVII mAb,5.5,192.970090267276,0.31406
+Staby,cex,CM Sepharose FF,anti-FVII mAb,5.5,78.1285924117714,20.767
+Staby,cex,CM Sepharose FF,anti-FVII mAb,5.5,88.4097169200495,6.892
+Staby,cex,CM Sepharose FF,anti-FVII mAb,5.5,98.2833610797417,3.1842
+Staby,cex,Heparin Ceramic HyperD M,anti-FVII mAb,5.5,218.006779823608,1.3922
+Staby,cex,Heparin Ceramic HyperD M,anti-FVII mAb,5.5,227.143336065651,1.2129
+Staby,cex,Heparin Ceramic HyperD M,anti-FVII mAb,5.5,235.293537965372,1.0
+Staby,cex,Heparin Ceramic HyperD M,anti-FVII mAb,5.5,243.741792135387,0.802
+Staby,cex,Heparin Sepharose FF,anti-FVII mAb,5.5,194.021563511288,0.6087
+Staby,cex,Heparin Sepharose FF,anti-FVII mAb,5.5,203.362091601752,0.4495
+Staby,cex,Heparin Sepharose FF,anti-FVII mAb,5.5,218.177519564034,0.4025
+Staby,cex,Heparin Sepharose FF,anti-FVII mAb,5.5,241.057140216787,0.28912
+Staby,cex,Heparin Sepharose FF,anti-FVII mAb,5.5,266.33607791311,0.20767
+Staby,cex,Heparin Toyopearl 650m,anti-FVII mAb,5.5,168.310031007232,8.359
+Staby,cex,Heparin Toyopearl 650m,anti-FVII mAb,5.5,193.860799733953,2.2249
+Staby,cex,Heparin Toyopearl 650m,anti-FVII mAb,5.5,219.351192609161,0.8712
+Staby,cex,Heparin Toyopearl 650m,anti-FVII mAb,5.5,242.404121672015,0.462
+Staby,cex,Heparin Toyopearl 650m,anti-FVII mAb,5.5,267.879820960349,0.23837
+Staby,cex,S Ceramic HyperD 20,anti-FVII mAb,5.5,92.8175284882968,0.3916
+Staby,cex,S Ceramic HyperD 20,anti-FVII mAb,5.5,118.034781385164,0.23837
+Staby,cex,SP Toyopearl 650m,anti-FVII mAb,5.5,68.0064335796549,1.3175
+Staby,cex,SP Toyopearl 650m,anti-FVII mAb,5.5,93.370567838101,0.34114
+Staby,cex,SP Toyopearl 650m,anti-FVII mAb,5.5,118.81465191013,0.07486
+Staby,cex,CM Ceramic HyperD F,aprotinin,5.5,343.2337616717,19.306
+Staby,cex,CM Ceramic HyperD F,aprotinin,5.5,355.508509072744,15.49
+Staby,cex,CM Ceramic HyperD F,aprotinin,5.5,368.213748230893,10.832
+Staby,cex,CM Ceramic HyperD F,aprotinin,5.5,390.418150706616,8.453
+Staby,cex,CM Ceramic HyperD F,aprotinin,5.5,446.683592150963,4.365
+Staby,cex,CM Sepharose FF,aprotinin,5.5,241.573894065922,3.5205
+Staby,cex,CM Sepharose FF,aprotinin,5.5,266.851716064153,1.9748
+Staby,cex,CM Sepharose FF,aprotinin,5.5,318.082663979857,0.5882
+Staby,cex,CM Sepharose FF,aprotinin,5.5,345.255018467048,0.27981
+Staby,cex,CM Toyopearl 650m,aprotinin,5.5,242.99089463379,8.485
+Staby,cex,CM Toyopearl 650m,aprotinin,5.5,268.416988812939,5.613
+Staby,cex,CM Toyopearl 650m,aprotinin,5.5,293.055583311891,3.2368
+Staby,cex,CM Toyopearl 650m,aprotinin,5.5,318.082663979857,1.8665
+Staby,cex,CM Toyopearl 650m,aprotinin,5.5,370.373580494049,1.1365
+Staby,cex,CM Toyopearl 650m,aprotinin,5.5,418.822495351724,0.6922
+Staby,cex,Heparin Ceramic HyperD M,aprotinin,5.5,218.690541529602,2.8276
+Staby,cex,Heparin Ceramic HyperD M,aprotinin,5.5,242.99089463379,1.8705
+Staby,cex,Heparin Ceramic HyperD M,aprotinin,5.5,268.416988812939,1.3438
+Staby,cex,Heparin Ceramic HyperD M,aprotinin,5.5,319.948442222291,0.8181
+Staby,cex,Heparin Ceramic HyperD M,aprotinin,5.5,368.213748230893,0.4847
+Staby,cex,Heparin Sepharose FF,aprotinin,5.5,194.527049654296,1.1742
+Staby,cex,Heparin Sepharose FF,aprotinin,5.5,218.690541529602,0.7556
+Staby,cex,Heparin Sepharose FF,aprotinin,5.5,245.855540602213,0.5428
+Staby,cex,Heparin Sepharose FF,aprotinin,5.5,268.416988812939,0.5134
+Staby,cex,Heparin Sepharose FF,aprotinin,5.5,318.082663979857,0.31254
+Staby,cex,Heparin Toyopearl 650m,aprotinin,5.5,169.032416415362,6.118
+Staby,cex,Heparin Toyopearl 650m,aprotinin,5.5,193.39266583205,3.937
+Staby,cex,Heparin Toyopearl 650m,aprotinin,5.5,217.415248387438,2.4646
+Staby,cex,Heparin Toyopearl 650m,aprotinin,5.5,242.99089463379,1.6757
+Staby,cex,Heparin Toyopearl 650m,aprotinin,5.5,266.851716064153,1.2719
+Staby,cex,Heparin Toyopearl 650m,aprotinin,5.5,296.503619989498,1.0484
+Staby,cex,S Ceramic HyperD 20,aprotinin,5.5,269.997659840121,13.907
+Staby,cex,S Ceramic HyperD 20,aprotinin,5.5,293.055583311891,9.201
+Staby,cex,S Ceramic HyperD 20,aprotinin,5.5,318.082663979857,6.432
+Staby,cex,S Ceramic HyperD 20,aprotinin,5.5,345.255018467048,4.496
+Staby,cex,S Ceramic HyperD 20,aprotinin,5.5,368.213748230893,3.5087
+Staby,cex,S Ceramic HyperD 20,aprotinin,5.5,395.01173697454,2.8144
+Staby,cex,SP Sepharose FF,aprotinin,5.5,318.082663979857,5.022
+Staby,cex,SP Sepharose FF,aprotinin,5.5,343.2337616717,3.4155
+Staby,cex,SP Sepharose FF,aprotinin,5.5,368.213748230893,2.5227
+Staby,cex,SP Sepharose FF,aprotinin,5.5,395.01173697454,1.8633
+Staby,cex,SP Sepharose FF,aprotinin,5.5,418.822495351724,1.4947
+Staby,cex,SP Sepharose FF,aprotinin,5.5,446.683592150963,1.1348
+Staby,cex,SP Toyopearl 650m,aprotinin,5.5,219.973315161798,7.005
+Staby,cex,SP Toyopearl 650m,aprotinin,5.5,244.421834861215,3.823
+Staby,cex,SP Toyopearl 650m,aprotinin,5.5,293.055583311891,1.6278
+Staby,cex,SP Toyopearl 650m,aprotinin,5.5,321.832574948202,1.1069
+Staby,cex,CM Ceramic HyperD F,lysozyme,5.5,317.336479932085,114.78
+Staby,cex,CM Ceramic HyperD F,lysozyme,5.5,353.223833847816,59.56
+Staby,cex,CM Ceramic HyperD F,lysozyme,5.5,368.307022826541,35.5
+Staby,cex,CM Ceramic HyperD F,lysozyme,5.5,393.350765783902,13.514
+Staby,cex,CM Ceramic HyperD F,lysozyme,5.5,443.128823686793,5.322
+Staby,cex,CM Sepharose FF,lysozyme,5.5,258.16062273371,8.67
+Staby,cex,CM Sepharose FF,lysozyme,5.5,278.939488379131,5.166
+Staby,cex,CM Sepharose FF,lysozyme,5.5,337.481522735054,1.597
+Staby,cex,CM Sepharose FF,lysozyme,5.5,360.28816803206,1.2538
+Staby,cex,Heparin Ceramic HyperD M,lysozyme,5.5,268.992393930653,20.515
+Staby,cex,Heparin Ceramic HyperD M,lysozyme,5.5,294.177870593083,7.808
+Staby,cex,Heparin Ceramic HyperD M,lysozyme,5.5,319.786407393655,3.783
+Staby,cex,Heparin Ceramic HyperD M,lysozyme,5.5,368.850180228068,2.031
+Staby,cex,Heparin Ceramic HyperD M,lysozyme,5.5,417.888096032753,1.3884
+Staby,cex,Heparin Sepharose FF,lysozyme,5.5,191.902220506782,6.6
+Staby,cex,Heparin Sepharose FF,lysozyme,5.5,207.30510645046,5.947
+Staby,cex,Heparin Sepharose FF,lysozyme,5.5,218.705648658805,4.669
+Staby,cex,Heparin Sepharose FF,lysozyme,5.5,230.722527160766,4.066
+Staby,cex,Heparin Sepharose FF,lysozyme,5.5,244.844301097908,3.54
+Staby,cex,Heparin Toyopearl 650m,lysozyme,5.5,218.615021535058,10.318
+Staby,cex,Heparin Toyopearl 650m,lysozyme,5.5,243.332433835825,5.937
+Staby,cex,Heparin Toyopearl 650m,lysozyme,5.5,269.221661394002,3.922
+Staby,cex,Heparin Toyopearl 650m,lysozyme,5.5,294.374373371174,2.1809
+Staby,cex,Heparin Toyopearl 650m,lysozyme,5.5,318.031399243388,1.598
+Staby,cex,S Ceramic HyperD 20,lysozyme,5.5,343.15473827565,14.007
+Staby,cex,S Ceramic HyperD 20,lysozyme,5.5,366.386952922925,8.942
+Staby,cex,S Ceramic HyperD 20,lysozyme,5.5,393.513829823493,6.116
+Staby,cex,S Ceramic HyperD 20,lysozyme,5.5,417.647609531857,4.33
+Staby,cex,S Ceramic HyperD 20,lysozyme,5.5,443.251281623047,3.173
+Staby,cex,SP Sepharose FF,lysozyme,5.5,267.491508545045,10.658
+Staby,cex,SP Sepharose FF,lysozyme,5.5,341.412957748195,2.678
+Staby,cex,SP Sepharose FF,lysozyme,5.5,396.177675937193,1.2526
+Staby,cex,SP Toyopearl 650m,lysozyme,5.5,241.81319762734,11.43
+Staby,cex,SP Toyopearl 650m,lysozyme,5.5,265.974499300739,6.355
+Staby,cex,SP Toyopearl 650m,lysozyme,5.5,290.837230219658,3.299
+Staby,cex,SP Toyopearl 650m,lysozyme,5.5,318.002108817923,1.9651
+Staby,cex,SP Toyopearl 650m,lysozyme,5.5,345.644778040889,1.1311
+Staby,cex,Heparin Sepharose FF,myoglobin,5.5,143.787124949917,0.12956
+Staby,cex,Heparin Sepharose FF,myoglobin,5.5,169.347971927262,0.09098
+Staby,cex,Heparin Sepharose FF,myoglobin,5.5,194.872250197747,0.08023
+Staby,cex,Heparin Sepharose FF,myoglobin,5.5,220.302791390213,0.05874
+Staby,cex,Heparin Toyopearl 650m,myoglobin,5.5,69.2867195966647,0.9323
+Staby,cex,Heparin Toyopearl 650m,myoglobin,5.5,93.329727973543,0.42336
+Staby,cex,Heparin Toyopearl 650m,myoglobin,5.5,117.898967017164,0.24153
+Staby,cex,Heparin Toyopearl 650m,myoglobin,5.5,142.958505707048,0.14075
+Staby,cex,Heparin Toyopearl 650m,myoglobin,5.5,168.34103771644,0.08037
+Staby,cex,S Ceramic HyperD 20,myoglobin,5.5,68.9064696711334,1.4101
+Staby,cex,S Ceramic HyperD 20,myoglobin,5.5,93.8101866370238,0.18131
+Staby,cex,SP Sepharose FF,myoglobin,5.5,93.9658399020036,1.2668
+Staby,cex,SP Sepharose FF,myoglobin,5.5,118.688871345287,0.6384
+Staby,cex,SP Sepharose FF,myoglobin,5.5,143.906363916076,0.34248
+Staby,cex,SP Sepharose FF,myoglobin,5.5,168.496156966123,0.23558
+Staby,cex,SP Sepharose FF,myoglobin,5.5,193.838481969312,0.15233
+Staby,cex,SP Toyopearl 650m,myoglobin,5.5,28.8230543058774,3.1267
+Staby,cex,SP Toyopearl 650m,myoglobin,5.5,43.622444623148,0.7165
+Staby,cex,SP Toyopearl 650m,myoglobin,5.5,68.8145065474201,0.29283
+Staby,cex,SP Toyopearl 650m,myoglobin,5.5,118.563223935323,0.18458
+Staby,cex,CM Hyper Z,anti-FVII mAb,5.5,327.627237546099,4.9557
+Staby,cex,CM Hyper Z,anti-FVII mAb,5.5,343.47884986578,3.3001
+Staby,cex,CM Hyper Z,anti-FVII mAb,5.5,355.860676481663,2.743
+Staby,cex,CM Hyper Z,anti-FVII mAb,5.5,368.697336297732,1.8608
+Staby,cex,Fractogel EMD COO- (M),anti-FVII mAb,5.5,219.295641418096,8.177
+Staby,cex,Fractogel EMD COO- (M),anti-FVII mAb,5.5,245.323978969051,4.4427
+Staby,cex,Fractogel EMD COO- (M),anti-FVII mAb,5.5,254.173342416244,3.9759
+Staby,cex,Fractogel EMD COO- (M),anti-FVII mAb,5.5,268.046413082239,2.5048
+Staby,cex,Fractogel EMD SE Hicap (M),anti-FVII mAb,5.5,168.127981893993,2.7036
+Staby,cex,Fractogel EMD SE Hicap (M),anti-FVII mAb,5.5,180.472070130814,1.6113
+Staby,cex,Fractogel EMD SE Hicap (M),anti-FVII mAb,5.5,192.583910057665,0.48489
+Staby,cex,Fractogel EMD SO3-,anti-FVII mAb,5.5,193.722471003295,3.0745
+Staby,cex,Fractogel EMD SO3-,anti-FVII mAb,5.5,218.001760089786,0.7011
+Staby,cex,Fractogel EMD SO3-,anti-FVII mAb,5.5,243.882141581607,0.14578
+Staby,cex,MacroPrep 25S,anti-FVII mAb,5.5,178.352828002574,3.7687
+Staby,cex,MacroPrep 25S,anti-FVII mAb,5.5,193.722471003295,0.8756
+Staby,cex,MacroPrep 25S,anti-FVII mAb,5.5,219.295641418096,0.46698
+Staby,cex,MacroPrep 25S,anti-FVII mAb,5.5,242.448778274277,0.29412
+Staby,cex,MacroPrep CM,anti-FVII mAb,5.5,78.9659746337859,1.2967
+Staby,cex,MacroPrep CM,anti-FVII mAb,5.5,88.3384958089318,0.9644
+Staby,cex,MacroPrep CM,anti-FVII mAb,5.5,98.8257229350205,0.6187
+Staby,cex,MacroPrep CM,anti-FVII mAb,5.5,118.675207570559,0.26921
+Staby,cex,MacroPrep High S,anti-FVII mAb,5.5,204.296064222283,0.9425
+Staby,cex,MacroPrep High S,anti-FVII mAb,5.5,245.323978969051,0.34729
+Staby,cex,MacroPrep High S,anti-FVII mAb,5.5,268.046413082239,0.21082
+Staby,cex,MacroPrep High S,anti-FVII mAb,5.5,294.598139649637,0.14564
+Staby,cex,Matrex Cellufine C-500,anti-FVII mAb,5.5,209.175107089668,10.022
+Staby,cex,Matrex Cellufine C-500,anti-FVII mAb,5.5,218.001760089786,7.32
+Staby,cex,Matrex Cellufine C-500,anti-FVII mAb,5.5,243.882141581607,3.3061
+Staby,cex,Matrex Cellufine C-500,anti-FVII mAb,5.5,269.631110253774,2.0823
+Staby,cex,CM Hyper Z,aprotinin,5.5,268.268697081517,10.77
+Staby,cex,CM Hyper Z,aprotinin,5.5,294.706693610353,4.8068
+Staby,cex,CM Hyper Z,aprotinin,5.5,319.963176731835,3.4549
+Staby,cex,CM Hyper Z,aprotinin,5.5,368.408803878714,1.7526
+Staby,cex,CM Hyper Z,aprotinin,5.5,419.227728530206,0.7136
+Staby,cex,CM Hyper Z,aprotinin,5.5,517.952579168849,0.40392
+Staby,cex,Fractogel EMD COO- (M),aprotinin,5.5,168.67083698167,8.826
+Staby,cex,Fractogel EMD COO- (M),aprotinin,5.5,195.352961769033,4.1605
+Staby,cex,Fractogel EMD COO- (M),aprotinin,5.5,218.418791577319,2.3134
+Staby,cex,Fractogel EMD COO- (M),aprotinin,5.5,269.848494838924,1.051
+Staby,cex,Fractogel EMD COO- (M),aprotinin,5.5,319.963176731835,0.48638
+Staby,cex,Fractogel EMD SE Hicap (M),aprotinin,5.5,244.208063610013,3.5238
+Staby,cex,Fractogel EMD SE Hicap (M),aprotinin,5.5,296.442181122402,1.5434
+Staby,cex,Fractogel EMD SE Hicap (M),aprotinin,5.5,319.963176731835,1.1507
+Staby,cex,Fractogel EMD SE Hicap (M),aprotinin,5.5,343.328613768562,0.7687
+Staby,cex,Fractogel EMD SE Hicap (M),aprotinin,5.5,392.997692131396,0.28558
+Staby,cex,Fractogel EMD SO3-,aprotinin,5.5,368.408803878714,3.5812
+Staby,cex,Fractogel EMD SO3-,aprotinin,5.5,419.227728530206,2.0279
+Staby,cex,Fractogel EMD SO3-,aprotinin,5.5,468.72703148229,1.2358
+Staby,cex,Fractogel EMD SO3-,aprotinin,5.5,521.002731243675,0.7812
+Staby,cex,Fractogel EMD SO3-,aprotinin,5.5,568.983929152867,0.5123
+Staby,cex,MacroPrep 25S,aprotinin,5.5,568.983929152867,3.639
+Staby,cex,MacroPrep 25S,aprotinin,5.5,592.870716654281,2.8671
+Staby,cex,MacroPrep 25S,aprotinin,5.5,617.760306849942,2.3007
+Staby,cex,MacroPrep 25S,aprotinin,5.5,647.470521001657,2.0606
+Staby,cex,MacroPrep 25S,aprotinin,5.5,690.700865165931,1.4543
+Staby,cex,MacroPrep CM,aprotinin,5.5,568.983929152867,1.4294
+Staby,cex,MacroPrep CM,aprotinin,5.5,617.760306849942,1.1467
+Staby,cex,MacroPrep CM,aprotinin,5.5,670.702615597451,0.937
+Staby,cex,MacroPrep CM,aprotinin,5.5,772.253703986922,0.7245
+Staby,cex,MacroPrep High S,aprotinin,5.5,542.862697020234,3.0305
+Staby,cex,MacroPrep High S,aprotinin,5.5,568.983929152867,2.3876
+Staby,cex,MacroPrep High S,aprotinin,5.5,589.399821516764,1.847
+Staby,cex,MacroPrep High S,aprotinin,5.5,617.760306849942,1.5095
+Staby,cex,MacroPrep High S,aprotinin,5.5,643.679977431362,1.3034
+Staby,cex,MacroPrep High S,aprotinin,5.5,666.776062334146,1.0459
+Staby,cex,Matrex Cellufine C-500,aprotinin,5.5,218.418791577319,2.7281
+Staby,cex,Matrex Cellufine C-500,aprotinin,5.5,244.208063610013,1.9605
+Staby,cex,Matrex Cellufine C-500,aprotinin,5.5,269.848494838924,1.409
+Staby,cex,Matrex Cellufine C-500,aprotinin,5.5,294.706693610353,0.9943
+Staby,cex,Matrex Cellufine C-500,aprotinin,5.5,318.089988188184,0.6172
+Staby,cex,CM Hyper Z,lysozyme,5.5,267.479190389482,16.494
+Staby,cex,CM Hyper Z,lysozyme,5.5,292.469107623176,5.609
+Staby,cex,CM Hyper Z,lysozyme,5.5,308.453711284769,4.6706
+Staby,cex,CM Hyper Z,lysozyme,5.5,317.694722172072,4.4207
+Staby,cex,CM Hyper Z,lysozyme,5.5,366.235129703335,1.8713
+Staby,cex,Fractogel EMD COO- (M),lysozyme,5.5,217.700787480354,10.649
+Staby,cex,Fractogel EMD COO- (M),lysozyme,5.5,229.678318509066,5.825
+Staby,cex,Fractogel EMD COO- (M),lysozyme,5.5,243.708120288382,3.8248
+Staby,cex,Fractogel EMD COO- (M),lysozyme,5.5,269.47594277508,2.7014
+Staby,cex,Fractogel EMD SE Hicap (M),lysozyme,5.5,258.541342742643,3.3036
+Staby,cex,Fractogel EMD SE Hicap (M),lysozyme,5.5,285.923597827051,1.9083
+Staby,cex,Fractogel EMD SE Hicap (M),lysozyme,5.5,310.649028663139,1.1435
+Staby,cex,Fractogel EMD SE Hicap (M),lysozyme,5.5,333.564635089211,0.6853
+Staby,cex,Fractogel EMD SE Hicap (M),lysozyme,5.5,386.838775586074,0.25994
+Staby,cex,Fractogel EMD SO3-,lysozyme,5.5,368.112021067142,4.7523
+Staby,cex,Fractogel EMD SO3-,lysozyme,5.5,392.889117856879,3.2962
+Staby,cex,Fractogel EMD SO3-,lysozyme,5.5,416.859784808564,2.3286
+Staby,cex,Fractogel EMD SO3-,lysozyme,5.5,444.897535510155,1.7376
+Staby,cex,Fractogel EMD SO3-,lysozyme,5.5,472.030433430185,1.2967
+Staby,cex,MacroPrep 25S,lysozyme,5.5,796.746198482199,4.4804
+Staby,cex,MacroPrep 25S,lysozyme,5.5,845.376167085897,3.1078
+Staby,cex,MacroPrep 25S,lysozyme,5.5,870.903428000662,2.2363
+Staby,cex,MacroPrep CM,lysozyme,5.5,665.962845078691,83.48
+Staby,cex,MacroPrep CM,lysozyme,5.5,719.680938338148,26.874
+Staby,cex,MacroPrep CM,lysozyme,5.5,768.210077483206,16.704
+Staby,cex,MacroPrep High S,lysozyme,5.5,720.725685683343,5.0022
+Staby,cex,MacroPrep High S,lysozyme,5.5,738.057163830214,4.0167
+Staby,cex,MacroPrep High S,lysozyme,5.5,773.784453785287,3.4695
+Staby,cex,MacroPrep High S,lysozyme,5.5,787.698466534667,2.9431
+Staby,cex,MacroPrep High S,lysozyme,5.5,816.150028261013,2.5423
+Staby,cex,Matrex Cellufine C-500,lysozyme,5.5,219.154301860514,4.3492
+Staby,cex,Matrex Cellufine C-500,lysozyme,5.5,242.337152190572,2.9079
+Staby,cex,Matrex Cellufine C-500,lysozyme,5.5,269.544205461414,1.98
+Staby,cex,Matrex Cellufine C-500,lysozyme,5.5,292.826246053291,1.3732
+Staby,cex,Matrex Cellufine C-500,lysozyme,5.5,318.126611759617,0.8853
+Staby,aex,DEAE Ceramic HyperD 20,anti-FVII mAb,8.0,128.327578693023,11.698
+Staby,aex,DEAE Ceramic HyperD 20,anti-FVII mAb,8.0,147.563857604338,1.7644
+Staby,aex,DEAE Ceramic HyperD 20,anti-FVII mAb,8.0,158.551370364409,1.008
+Staby,aex,DEAE Ceramic HyperD 20,anti-FVII mAb,8.0,167.664068327636,0.658
+Staby,aex,DEAE Sepharose FF,anti-FVII mAb,8.0,127.817406153098,11.391
+Staby,aex,DEAE Sepharose FF,anti-FVII mAb,8.0,138.436305308087,3.924
+Staby,aex,DEAE Sepharose FF,anti-FVII mAb,8.0,148.152846461966,2.1831
+Staby,aex,DEAE Sepharose FF,anti-FVII mAb,8.0,157.293218875014,1.2146
+Staby,aex,DEAE Sepharose FF,anti-FVII mAb,8.0,168.333285503663,0.6407
+Staby,aex,Fractogel EMD DEAE (M),anti-FVII mAb,8.0,188.234836010337,8.023
+Staby,aex,Fractogel EMD DEAE (M),anti-FVII mAb,8.0,197.464941090288,3.421
+Staby,aex,Fractogel EMD DEAE (M),anti-FVII mAb,8.0,207.979246288079,2.2934
+Staby,aex,Fractogel EMD DEAE (M),anti-FVII mAb,8.0,227.976457015679,1.2094
+Staby,aex,Fractogel EMD DEAE (M),anti-FVII mAb,8.0,252.900681701498,0.5887
+Staby,aex,Fractogel EMD DEAE (M),anti-FVII mAb,8.0,279.428049987148,0.27174
+Staby,aex,MacroPrep DEAE Support,anti-FVII mAb,8.0,197.464941090288,4.013
+Staby,aex,MacroPrep DEAE Support,anti-FVII mAb,8.0,218.182543344914,2.9912
+Staby,aex,MacroPrep DEAE Support,anti-FVII mAb,8.0,227.064897083423,2.2911
+Staby,aex,MacroPrep DEAE Support,anti-FVII mAb,8.0,238.204521048176,1.9005
+Staby,aex,Poros 50 D,anti-FVII mAb,8.0,127.817406153098,12.014
+Staby,aex,Poros 50 D,anti-FVII mAb,8.0,138.436305308087,4.855
+Staby,aex,Poros 50 D,anti-FVII mAb,8.0,158.551370364409,1.2145
+Staby,aex,Poros 50 D,anti-FVII mAb,8.0,178.718701347904,0.29585
+Staby,aex,Toyopearl DEAE 650 M,anti-FVII mAb,8.0,117.541167469596,4.038
+Staby,aex,Toyopearl DEAE 650 M,anti-FVII mAb,8.0,147.563857604338,0.8373
+Staby,aex,Toyopearl DEAE 650 M,anti-FVII mAb,8.0,157.921041668495,0.5182
+Staby,aex,Toyopearl DEAE 650 M,anti-FVII mAb,8.0,167.664068327636,0.32933
+Staby,aex,DEAE Ceramic HyperD 20,aprotinin,9.0,80.3840715589769,2.3831
+Staby,aex,DEAE Ceramic HyperD 20,aprotinin,9.0,90.9201199471415,1.2023
+Staby,aex,DEAE Ceramic HyperD 20,aprotinin,9.0,100.806839746441,0.7686
+Staby,aex,DEAE Ceramic HyperD 20,aprotinin,9.0,110.868966720906,0.7292
+Staby,aex,DEAE Ceramic HyperD 20,aprotinin,9.0,120.027289828025,0.5754
+Staby,aex,DEAE Ceramic HyperD 20,aprotinin,9.0,130.454780981286,0.4786
+Staby,aex,DEAE Sepharose FF,aprotinin,9.0,70.5358655554366,1.9822
+Staby,aex,DEAE Sepharose FF,aprotinin,9.0,80.0995359421498,0.9001
+Staby,aex,DEAE Sepharose FF,aprotinin,9.0,105.334345235307,0.34903
+Staby,aex,Fractogel EMD DEAE (M),aprotinin,9.0,70.5651062845109,0.7686
+Staby,aex,Fractogel EMD DEAE (M),aprotinin,9.0,80.4266538015677,0.6918
+Staby,aex,Fractogel EMD DEAE (M),aprotinin,9.0,90.9473396915335,0.6065
+Staby,aex,Fractogel EMD DEAE (M),aprotinin,9.0,100.426886819173,0.4914
+Staby,aex,MacroPrep DEAE Support,aprotinin,9.0,70.265153605298,1.5236
+Staby,aex,MacroPrep DEAE Support,aprotinin,9.0,90.9389635177316,0.7487
+Staby,aex,MacroPrep DEAE Support,aprotinin,9.0,110.009451671867,0.5179
+Staby,aex,MacroPrep DEAE Support,aprotinin,9.0,129.966073994436,0.29031
+Staby,aex,MacroPrep DEAE Support,aprotinin,9.0,150.490817019476,0.29031
+Staby,aex,MacroPrep DEAE Support,aprotinin,9.0,170.180580210968,0.2352
+Staby,aex,Poros 50 D,aprotinin,9.0,80.495203007117,0.09869
+Staby,aex,Poros 50 D,aprotinin,9.0,105.820546482025,0.07996
+Staby,aex,Poros 50 D,aprotinin,9.0,130.571983058882,0.05831
+Staby,aex,Toyopearl DEAE 650 M,aprotinin,9.0,60.5884719967104,51.79
+Staby,aex,Toyopearl DEAE 650 M,aprotinin,9.0,70.7685015556917,9.613
+Staby,aex,Toyopearl DEAE 650 M,aprotinin,9.0,80.36741508008,3.827
+Staby,aex,Toyopearl DEAE 650 M,aprotinin,9.0,90.5419825957868,1.8806
+Staby,aex,Toyopearl DEAE 650 M,aprotinin,9.0,100.396829929125,1.0267
+Staby,aex,DEAE Ceramic HyperD 20,lipolase,8.0,118.187079225829,15.619
+Staby,aex,DEAE Ceramic HyperD 20,lipolase,8.0,127.473526340193,7.757
+Staby,aex,DEAE Ceramic HyperD 20,lipolase,8.0,138.605351964503,4.525
+Staby,aex,DEAE Ceramic HyperD 20,lipolase,8.0,148.326927268339,3.0198
+Staby,aex,DEAE Ceramic HyperD 20,lipolase,8.0,158.099319273769,2.1268
+Staby,aex,DEAE Sepharose FF,lipolase,8.0,119.072096415466,4.541
+Staby,aex,DEAE Sepharose FF,lipolase,8.0,128.958508038275,3.0296
+Staby,aex,DEAE Sepharose FF,lipolase,8.0,139.091310817473,1.4647
+Staby,aex,DEAE Sepharose FF,lipolase,8.0,148.258635919887,1.0597
+Staby,aex,DEAE Sepharose FF,lipolase,8.0,158.026528608571,0.7463
+Staby,aex,DEAE Sepharose FF,lipolase,8.0,169.110276646421,0.5116
+Staby,aex,Fractogel EMD DEAE (M),lipolase,8.0,139.11693474376,2.2508
+Staby,aex,Fractogel EMD DEAE (M),lipolase,8.0,158.668238381891,0.8308
+Staby,aex,Fractogel EMD DEAE (M),lipolase,8.0,178.817492246539,0.35086
+Staby,aex,Fractogel EMD DEAE (M),lipolase,8.0,203.92008336214,0.09901
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,178.348721324224,8.342
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,198.614064940938,4.03
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,207.510463285335,2.9168
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,218.554624316863,2.2272
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,227.446888496138,1.7475
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,237.662138162548,1.6106
+Staby,aex,MacroPrep DEAE Support,lipolase,8.0,258.422307465288,1.046
+Staby,aex,Poros 50 D,lipolase,8.0,118.214295939829,26.722
+Staby,aex,Poros 50 D,lipolase,8.0,127.994114463188,9.112
+Staby,aex,Poros 50 D,lipolase,8.0,138.62131041399,6.079
+Staby,aex,Poros 50 D,lipolase,8.0,148.344005019976,4.057
+Staby,aex,Poros 50 D,lipolase,8.0,168.55436352835,2.5627
+Staby,aex,Poros 50 D,lipolase,8.0,178.945177984769,1.8051
+Staby,aex,Toyopearl DEAE 650 M,lipolase,8.0,108.63255647272,6.993
+Staby,aex,Toyopearl DEAE 650 M,lipolase,8.0,118.579605181594,3.3798
+Staby,aex,Toyopearl DEAE 650 M,lipolase,8.0,128.413298008579,1.724
+Staby,aex,Toyopearl DEAE 650 M,lipolase,8.0,138.535156609596,1.426
+Staby,aex,Toyopearl DEAE 650 M,lipolase,8.0,148.238154647217,0.7887
+Staby,aex,Toyopearl DEAE 650 M,lipolase,8.0,157.993783743974,0.4728
+Staby,aex,DEAE Ceramic HyperD 20,myoglobin,9.0,40.5349834466827,5.776
+Staby,aex,DEAE Ceramic HyperD 20,myoglobin,9.0,50.3662944371359,1.742
+Staby,aex,DEAE Ceramic HyperD 20,myoglobin,9.0,60.8639312000994,0.8936
+Staby,aex,DEAE Ceramic HyperD 20,myoglobin,9.0,70.7570959401289,0.14349
+Staby,aex,DEAE Ceramic HyperD 20,myoglobin,9.0,90.7360773152903,0.039233
+Staby,aex,DEAE Sepharose FF,myoglobin,9.0,30.6711457661387,1.914
+Staby,aex,DEAE Sepharose FF,myoglobin,9.0,40.5816779453537,0.746
+Staby,aex,DEAE Sepharose FF,myoglobin,9.0,50.4092226121492,0.39813
+Staby,aex,DEAE Sepharose FF,myoglobin,9.0,60.4352050555742,0.22095
+Staby,aex,Fractogel EMD DEAE (M),myoglobin,9.0,30.7177923308943,0.13698
+Staby,aex,Fractogel EMD DEAE (M),myoglobin,9.0,40.6668000122587,0.019567
+Staby,aex,MacroPrep DEAE Support,myoglobin,9.0,30.7206216744168,0.11474
+Staby,aex,MacroPrep DEAE Support,myoglobin,9.0,40.6377823519924,0.06761
+Staby,aex,MacroPrep DEAE Support,myoglobin,9.0,50.6757284177283,0.038278
+Staby,aex,MacroPrep DEAE Support,myoglobin,9.0,60.5187570793298,0.019251
+Staby,aex,Poros 50 D,myoglobin,9.0,30.562579066168,0.9611
+Staby,aex,Poros 50 D,myoglobin,9.0,40.5891540552426,0.5553
+Staby,aex,Poros 50 D,myoglobin,9.0,50.4103833407579,0.3753
+Staby,aex,Toyopearl DEAE 650 M,myoglobin,9.0,30.5414744745866,3.2561
+Staby,aex,Toyopearl DEAE 650 M,myoglobin,9.0,40.7417800642271,0.7608
+Staby,aex,Toyopearl DEAE 650 M,myoglobin,9.0,50.6080961866187,0.39038
+Staby,aex,Toyopearl DEAE 650 M,myoglobin,9.0,60.669441917522,0.24865
+Staby,aex,Toyopearl DEAE 650 M,myoglobin,9.0,70.4709295311516,0.1747
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,30.0,150.020408163266
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,45.0000000000001,32.6734693877554
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,70.0000000000001,6.34693877551021
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,95.0,1.55102040816327
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,120.0,0.938775510204081
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,220.0,0.571428571428572
+bai,aex,Toyopearl SuperQ 650m,alpha-lactalbumin,0.0,320.0,0.244897959183673
+bai,aex,Toyopearl DEAE 650 M,alpha-lactalbumin,0.0,30.0,8.41176470588236
+bai,aex,Toyopearl DEAE 650 M,alpha-lactalbumin,0.0,45.0000000000001,2.70588235294118
+bai,aex,Toyopearl DEAE 650 M,alpha-lactalbumin,0.0,70.0000000000001,0.705882352941177
+bai,aex,Toyopearl DEAE 650 M,alpha-lactalbumin,0.0,95.0,0.323529411764706
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,30.0,41.7590613722129
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,39.9999999999999,14.4420921544209
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,70.0000000000001,2.7359900373599
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,120.0,0.763061928752648
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,170.0,0.275217932752179
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,320.0,0.140722291407223
+bai,aex,Fractogel EMD TMAE,alpha-lactalbumin,0.0,420.0,0.104849279161206
+bai,aex,Fractogel EMD DEAE (M),alpha-lactalbumin,0.0,49.9999999999998,46.0588235294118
+bai,aex,Fractogel EMD DEAE (M),alpha-lactalbumin,0.0,79.9999999999995,11.8235294117646
+bai,aex,Fractogel EMD DEAE (M),alpha-lactalbumin,0.0,120.0,3.72705882352941
+bai,aex,Fractogel EMD DEAE (M),alpha-lactalbumin,0.0,170.0,1.31294117647059
+bai,aex,Fractogel EMD DEAE (M),alpha-lactalbumin,0.0,220.0,0.634117647058824
+bai,aex,Fractogel EMD DEAE (M),alpha-lactalbumin,0.0,320.0,0.261176470588235
+bai,aex,Fractogel EMD DMAE (M),alpha-lactalbumin,0.0,39.9999999999999,47.4988452655886
+bai,aex,Fractogel EMD DMAE (M),alpha-lactalbumin,0.0,70.0000000000001,8.06466512702079
+bai,aex,Fractogel EMD DMAE (M),alpha-lactalbumin,0.0,120.0,2.23325635103926
+bai,aex,Fractogel EMD DMAE (M),alpha-lactalbumin,0.0,170.0,0.867205542725174
+bai,aex,Fractogel EMD DMAE (M),alpha-lactalbumin,0.0,220.0,0.473441108545035
+bai,aex,Fractogel EMD DMAE (M),alpha-lactalbumin,0.0,320.0,0.270207852193995
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,45.0000000000001,24.5555555555558
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,55.0000000000004,13.8888888888888
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,70.0000000000001,6.22222222222223
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,95.0,2.33333333333333
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,120.0,1.11111111111111
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,145.0,0.688888888888889
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,170.0,0.444444444444445
+bai,aex,DEAE Sepharose FF,alpha-lactalbumin,0.0,195.0,0.333333333333333
+bai,aex,Q Sepharose FF,alpha-lactalbumin,0.0,70.1187233627272,19.4536008162266
+bai,aex,Q Sepharose FF,alpha-lactalbumin,0.0,95.8577575029184,5.5911352757056
+bai,aex,Q Sepharose FF,alpha-lactalbumin,0.0,120.0,2.23872113856834
+bai,aex,Q Sepharose FF,alpha-lactalbumin,0.0,169.968483550237,0.647142615748583
+bai,aex,Q Sepharose FF,alpha-lactalbumin,0.0,219.986186963274,0.335196905022163
+bai,aex,Q Sepharose FF,pepsinogen,0.0,360.0,47.3333333333329
+bai,aex,Q Sepharose FF,pepsinogen,0.0,390.0,11.8888888888888
+bai,aex,Q Sepharose FF,pepsinogen,0.0,420.0,4.91555555555556
+bai,aex,Q Sepharose FF,pepsinogen,0.0,470.0,1.51888888888889
+bai,aex,Q Sepharose FF,pepsinogen,0.0,520.0,0.661111111111112
+bai,aex,Q Sepharose FF,pepsinogen,0.0,620.000000000001,0.322222222222222
+bai,aex,Q Sepharose FF,pepsinogen,0.0,1020.0,0.138888888888889
+bai,aex,Q Sepharose FF,pepsinogen,0.0,1520.0,0.02
+bai,aex,DEAE Sepharose FF,pepsinogen,0.0,270.0,7.69565217391305
+bai,aex,DEAE Sepharose FF,pepsinogen,0.0,320.0,0.715217391304347
+bai,aex,DEAE Sepharose FF,pepsinogen,0.0,420.0,0.316304347826087
+bai,aex,DEAE Sepharose FF,pepsinogen,0.0,620.000000000001,0.181521739130435
+bai,aex,DEAE Sepharose FF,pepsinogen,0.0,1020.0,0.031521739130435
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,370.0,52.1249999999995
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,395.0,19.625
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,420.0,10.2499999999999
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,470.0,3.075
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,520.0,1.3675
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,620.000000000001,0.492500000000001
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,770.0,0.285
+bai,aex,Fractogel EMD DEAE (M),pepsinogen,0.0,1020.0,0.1475
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,360.0,35.9272237196768
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,390.0,13.420485175202
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,420.0,6.68194070080862
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,470.0,2.63881401617251
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,520.0,1.22371967654987
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,620.000000000001,0.521563342318059
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,1020.0,0.1455525606469
+bai,aex,Fractogel EMD DMAE (M),pepsinogen,0.0,1520.0,0.014824797843666
+bai,aex,Toyopearl SuperQ 650m,pepsinogen,0.0,200.0,23.1935483870968
+bai,aex,Toyopearl SuperQ 650m,pepsinogen,0.0,220.0,10.1895161290323
+bai,aex,Toyopearl SuperQ 650m,pepsinogen,0.0,240.0,5.1491935483871
+bai,aex,Toyopearl SuperQ 650m,pepsinogen,0.0,270.0,1.36290322580645
+bai,aex,Toyopearl SuperQ 650m,pepsinogen,0.0,320.0,0.639112903225806
+bai,aex,Toyopearl SuperQ 650m,pepsinogen,0.0,420.0,0.213709677419355
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,170.0,36.7358490566036
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,190.0,9.9433962264151
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,220.0,2.0188679245283
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,270.0,0.520754716981132
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,320.0,0.318238993710692
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,520.0,0.176100628930818
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,770.0,0.138364779874214
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,1020.0,0.125786163522013
+bai,aex,Toyopearl DEAE 650 M,pepsinogen,0.0,1520.0,0.128301886792453
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,245.0,28.4871794871796
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,270.0,10.7948717948718
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,320.0,1.69230769230769
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,420.0,0.339743589743589
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,620.000000000001,0.206410256410257
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,820.000000000001,0.111538461538462
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,1020.0,0.051282051282051
+bai,aex,Fractogel EMD TMAE,pepsinogen,0.0,1520.0,0.016666666666667
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,806.31,48.5959414346272
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,909.83,22.4734630387635
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,1007.36,11.8620568199933
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,1212.08,2.95998833804091
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,1412.85,1.00551834867388
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,1605.3,0.530737775702041
+DePhillips,cex,SP Spherodex M,FGF-1,7.0,1812.1,0.373052538871955
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,548.28,190.502201992772
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,610.55,80.6677604594846
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,706.35,29.275882808047
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,807.23,9.10604935783529
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,1008.69,1.74433542182173
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,1213.04,0.941195842240608
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,1404.66,0.454872833383506
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,1616.5,0.215050273884109
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,1813.6,0.118620568199933
+DePhillips,cex,Cellufine sulfate,FGF-1,7.0,2008.9,0.068380142263125
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,411.05,122.608336460339
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,509.05,34.9188554327878
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,611.36,11.6035265419906
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,707.21,4.91348913442001
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,807.98,2.37465214365167
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,1009.22,0.824650639311467
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,1213.74,0.40742718189182
+DePhillips,cex,Fractogel EMD SO3-,FGF-1,7.0,1414.01,0.305949677679428
+DePhillips,cex,SP-550 C,FGF-1,7.0,306.88,84.3024118982907
+DePhillips,cex,SP-550 C,FGF-1,7.0,347.59,47.5368062071075
+DePhillips,cex,SP-550 C,FGF-1,7.0,409.02,18.0293471073597
+DePhillips,cex,SP-550 C,FGF-1,7.0,452.29,8.90758550728121
+DePhillips,cex,SP-550 C,FGF-1,7.0,506.5,5.48567406326401
+DePhillips,cex,SP-550 C,FGF-1,7.0,604.42,2.08055882790123
+DePhillips,cex,SP-550 C,FGF-1,7.0,803.65,0.592556818667877
+DePhillips,cex,SP-550 C,FGF-1,7.0,1010.06,0.245442632314483
+DePhillips,cex,SP-550 C,FGF-1,7.0,1207.11,0.113506308605557
+DePhillips,cex,SP-550 C,FGF-1,7.0,1406.54,0.065431970593229
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,267.86,86.1806965650675
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,308.95,39.8547418103907
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,406.67,8.90758550728121
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,506.74,2.71025403707781
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,608.51,1.07423673601543
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,803.91,0.373052538871955
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,1010.06,0.245442632314483
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,1199.75,0.081560522625921
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,1406.67,0.057328423621395
+DePhillips,cex,SP Sepharose FF,FGF-1,7.0,1598.2,0.032327342165994
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,89.834,174.433542182173
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,110.624,48.5959414346272
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,150.503,15.1157604245256
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,210.02,3.85584883988653
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,249.44,1.66912937364444
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,311.73,0.661561159951624
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,407.66,0.240093277398309
+DePhillips,cex,SP Toyopearl 650m,FGF-1,7.0,613.44,0.081560522625921
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,712.88,89.2318711436908
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,809.11,32.3295753368094
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,912.7,12.5155517412253
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,1016.72,5.91017036610244
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,1207.11,1.57220799347305
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,1415.37,0.759241607473282
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,1618.0,0.570203659193725
+DePhillips,cex,SP Spherodex M,FGF-2,7.0,1814.9,0.400728287075545
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,550.31,193.005639945682
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,612.58,95.2554866216589
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,717.4,34.5191425999606
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,814.25,8.59171772218721
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,1010.28,1.469805946149
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,1214.82,0.847110373432818
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,1415.37,0.358294383196428
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,1607.8,0.165516006762574
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,1826.5,0.091238891456143
+DePhillips,cex,Cellufine sulfate,FGF-2,7.0,2022.9,0.054931315541924
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,510.28,58.5301989059207
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,608.72,16.6371909052726
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,708.38,6.58582217395756
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,804.0,2.60651362829051
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,1003.88,0.757669840076849
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,1207.11,0.427129925544614
+DePhillips,cex,Fractogel EMD SO3-,FGF-2,7.0,1397.45,0.320804166408406
+DePhillips,cex,SP-550 C,FGF-2,7.0,404.57,61.0871691654395
+DePhillips,cex,SP-550 C,FGF-2,7.0,461.47,20.261892179741
+DePhillips,cex,SP-550 C,FGF-2,7.0,507.08,9.15398085939555
+DePhillips,cex,SP-550 C,FGF-2,7.0,604.89,2.66011247574194
+DePhillips,cex,SP-550 C,FGF-2,7.0,809.11,0.620268890883047
+DePhillips,cex,SP-550 C,FGF-2,7.0,1003.88,0.357552649044492
+DePhillips,cex,SP-550 C,FGF-2,7.0,1214.82,0.101643591004078
+DePhillips,cex,SP-550 C,FGF-2,7.0,1406.38,0.073041553246021
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,370.68,77.8448704100956
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,409.66,35.9550585247907
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,507.08,10.2228031944143
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,604.89,2.71956848609892
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,809.11,1.03086074006263
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,1010.28,0.809599068854148
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,1207.11,0.521062717352806
+DePhillips,cex,SP Sepharose FF,FGF-2,7.0,1406.38,0.467014107635309
+DePhillips,cex,SP Toyopearl 650m,FGF-2,7.0,211.17,77.5728950889071
+DePhillips,cex,SP Toyopearl 650m,FGF-2,7.0,250.76,15.4860265676929
+DePhillips,cex,SP Toyopearl 650m,FGF-2,7.0,311.37,3.94275689595591
+DePhillips,cex,SP Toyopearl 650m,FGF-2,7.0,409.66,0.660009216258735
+DePhillips,cex,SP Toyopearl 650m,FGF-2,7.0,612.58,0.179750455670374
+DePhillips,cex,SP Toyopearl 650m,FGF-2,7.0,814.25,0.086872035981495
+kumar,cex,Poros 50 HS,mAb basic variant,7.0,62.391,0.829221851851852
+kumar,cex,Poros 50 HS,mAb basic variant,7.0,69.039,0.538667037037037
+kumar,cex,Poros 50 HS,mAb basic variant,7.0,74.692,0.404405925925926
+kumar,cex,Poros 50 HS,mAb basic variant,6.5,100.424,0.980484074074074
+kumar,cex,Poros 50 HS,mAb basic variant,6.5,108.445,0.611808888888889
+kumar,cex,Poros 50 HS,mAb basic variant,6.5,116.241,0.433838888888889
+kumar,cex,Poros 50 HS,mAb main variant,6.5,96.4,0.652075185185185
+kumar,cex,Poros 50 HS,mAb main variant,6.5,104.202,0.430338518518518
+kumar,cex,Poros 50 HS,mAb main variant,6.5,112.566,0.343055555555555
+kumar,cex,Poros 50 HS,mAb main variant,7.0,58.53,0.688407777777778
+kumar,cex,Poros 50 HS,mAb main variant,7.0,61.856,0.532191111111111
+kumar,cex,Poros 50 HS,mAb main variant,7.0,66.924,0.41353962962963
+kumar,cex,Poros 50 HS,mAb main variant,7.0,71.986,0.326155555555555
+kumar,cex,Poros 50 XS,mAb basic variant,7.0,61.891,2.10432209302326
+kumar,cex,Poros 50 XS,mAb basic variant,7.0,67.739,1.11159069767442
+kumar,cex,Poros 50 XS,mAb basic variant,7.0,73.587,0.666174418604651
+kumar,cex,Poros 50 XS,mAb basic variant,7.0,81.774,0.383016279069768
+kumar,cex,Poros 50 XS,mAb basic variant,6.5,110.819,0.988740697674419
+kumar,cex,Poros 50 XS,mAb basic variant,6.5,119.396,0.531125581395349
+kumar,cex,Poros 50 XS,mAb basic variant,6.5,129.142,0.380159302325581
+kumar,cex,Poros 50 XS,mAb basic variant,6.5,138.694,0.229238372093023
+kumar,cex,Poros 50 XS,mAb main variant,6.5,111.988,0.675924418604651
+kumar,cex,Poros 50 XS,mAb main variant,6.5,119.786,0.440881395348837
+kumar,cex,Poros 50 XS,mAb main variant,6.5,128.363,0.320072093023256
+kumar,cex,Poros 50 XS,mAb main variant,6.5,139.669,0.259259302325581
+kumar,cex,Poros 50 XS,mAb main variant,7.0,61.891,0.925524418604651
+kumar,cex,Poros 50 XS,mAb main variant,7.0,67.934,0.570306976744186
+kumar,cex,Poros 50 XS,mAb main variant,7.0,74.172,0.383469767441861
+kumar,cex,Poros 50 XS,mAb main variant,7.0,81.969,0.274723255813954
